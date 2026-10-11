@@ -11,21 +11,20 @@
   "author_handle": "laozhengzaici",
   "author_url": "https://github.com/laozhengzaici",
   "primary_category": "Game Characters",
-  "tags": ["minecraft", "steve", "classic-skin", "block-model", "mining", "v2"],
+  "tags": ["minecraft", "steve", "classic-skin", "block-model", "v2"],
   "collections": [],
   "canonical_key": "fictional/minecraft/steve",
-  "variant_note": "Classic Minecraft Steve skin rendered on a six-cuboid model, with custom rigid-limb animations and 16 stationary look directions for Codex v2. The running (task processing) row shows iron-pickaxe diamond mining, ore breaking and flat 2D pixel-diamond pickup. Model, animation, original ore pattern, item-reference reconstruction and Codex adaptation by laozhengzaici with Codex assistance.",
+  "variant_note": "Classic Minecraft Steve skin rendered on a six-cuboid model, with custom rigid-limb animations and 16 stationary look directions for Codex v2. Model, animation and Codex adaptation by laozhengzaici.",
   "source_type": "texture-adaptation",
   "source_url": "https://assets.mojang.com/SkinTemplates/steve.png",
-  "source_notes": "Final Steve sprites directly reuse pixels from the official classic Steve skin supplied by the submitter. Original character and skin artwork: Mojang/Microsoft. The supplied all-faces crops are texture inputs, not independent pet artwork. laozhengzaici is credited for the model, animation and Codex adaptation, not for the original skin or supplied item artwork. Frames use nearest-texel texture sampling, face lighting, native alpha and supersampled edge coverage; adjacent skin texels are adapted for blinking. The final iron-pickaxe and diamond-drop textures reconstruct the logical 16x16 pixel grids of two images supplied by the submitter: the iron-pickaxe silhouette is traced and its noisy palette simplified, while the diamond pixel layout and palette are directly reused. The original artists and public origins of those two item references have not been confirmed; the reference images themselves are not included in the package. The ore pattern is original to this adaptation. The diamond drop is a flat screen-facing pixel sprite composited at whole-pixel scales, without perspective or 3D facets. No generative image-model output is used in the final sheet.",
-  "original_asset_author": "Mojang/Microsoft (Steve skin); supplied item reference artists not confirmed.",
+  "source_notes": "Final sprites directly reuse pixels from the official classic Steve skin supplied by the submitter. Original character and skin artwork: Mojang/Microsoft. The supplied all-faces crops are texture inputs, not independent pet artwork. laozhengzaici is credited for the model, animation and Codex adaptation, not for the original skin. Frames are rendered using nearest-texel texture sampling, face lighting, native alpha and supersampled edge coverage; adjacent skin texels are adapted for blinking. No AI-generated sprite pixels are used in the final sheet.",
+  "original_asset_author": "Mojang/Microsoft",
   "source_asset_sha256": "4c7b0468044bfecacc43d00a3a69335a834b73937688292c20d3988cae58248d",
   "license": "Non-commercial use only.",
-  "usage_notes": "仅限非商业使用。Non-commercial use only. Original Minecraft character and skin rights remain with Mojang/Microsoft; item reference rights remain with their respective owners. This adaptation does not claim ownership of or relicense the original artwork.",
-  "description": "Classic Minecraft Steve as a block-model Codex v2 pet, with nine animation states, diamond mining and pickup during task processing, and sixteen stationary look directions.",
+  "usage_notes": "仅限非商业使用。Non-commercial use only. Original Minecraft character and skin rights remain with Mojang/Microsoft; this adaptation does not claim ownership of or relicense the original artwork.",
+  "description": "Classic Minecraft Steve as a block-model Codex v2 pet, with nine animation states and sixteen stationary look directions.",
   "codex_install": {
     "pet_json": "pet.json",
     "spritesheet": "spritesheet.webp"
-  },
-  "spritesheet_sha256": "bb7c23f61755859633d1d229a1e5e24a4b09b68363d936ed8e245ed0b557b7c1"
+  }
 }
