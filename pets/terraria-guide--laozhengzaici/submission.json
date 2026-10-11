@@ -1,0 +1,37 @@
+{
+  "slug": "terraria-guide--laozhengzaici",
+  "pet_slug": "terraria-guide",
+  "author_slug": "laozhengzaici",
+  "name": "向导",
+  "localized_names": {
+    "en": "Guide",
+    "zh": "向导"
+  },
+  "author": "laozhengzaici",
+  "author_handle": "laozhengzaici",
+  "author_url": "https://github.com/laozhengzaici",
+  "primary_category": "Game Characters",
+  "canonical_key": "terraria/guide",
+  "variant_note": "由 laozhengzaici 投稿的独立 AI 辅助制作版本：泰拉瑞亚向导 2D 像素风，依据 Wiki 方形像素眼结构放大眼部，并按用户要求调换眼白与瞳孔的左右颜色顺序；采用与站立一致的紧凑跑步腿长，提供 v2 九类动作与十六个环视方向。",
+  "collections": [],
+  "tags": ["terraria", "pixel-art", "v2"],
+  "description": "棕色碎发、橄榄绿短袖衬衣、蓝灰长裤与深色鞋的向导像素伙伴。参考泰拉瑞亚原版向导外观，独立生成桌面宠物动作。",
+  "source_type": "ai-generated-fan-art",
+  "source_url": "",
+  "source_notes": "最终宠物动画由投稿人委托 Codex 使用内置图像生成工具独立生成并适配；原版 Guide.png 与用户提供的 Wiki 截图仅作为角色外观参考，不随投稿包上传。未直接裁剪、描摹或粘贴参考图像素来组成最终图集。角色与原版参考美术属于 Terraria / Re-Logic。",
+  "reference_sources": [
+    {
+      "url": "https://terraria.wiki.gg/wiki/Guide",
+      "image_url": "https://terraria.wiki.gg/images/7/7f/Guide.png",
+      "role": "向导角色外观及像素风参考",
+      "attribution": "Terraria / Re-Logic"
+    }
+  ],
+  "license": "仅限非商业使用。角色与原版参考美术属于 Terraria / Re-Logic；最终宠物动画的独立制作与适配署名为 laozhengzaici。",
+  "preview_image": "../../assets/previews/terraria-guide--laozhengzaici/gifs/idle.gif",
+  "codex_install": {
+    "pet_json": "pet.json",
+    "spritesheet": "spritesheet.webp"
+  },
+  "spritesheet_sha256": "9734502a9ae9b837e364f4459e49a937ffee7314be51f05e9777a6a28c2c9535"
+}
