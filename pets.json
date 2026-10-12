@@ -676,6 +676,20 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "doubao-ivory-cardigan--wynn",
+    "name": "Doubao Ivory Cardigan",
+    "localized_names": { "en": "Doubao Ivory Cardigan", "zh": "米白开衫豆包" },
+    "author": "wynn",
+    "author_url": "https://github.com/zhou-jianwen",
+    "primary_category": "Mascots",
+    "canonical_key": "mascot/bytedance/doubao",
+    "variant_note": "An independently AI-generated waist-up Doubao fan-art companion by wynn, wearing an ivory cardigan over a pale-blue shirt. The finished bust silhouette, nine state animations and sixteen v2 gaze directions were made for this contribution; the outfit and torso are fan-art design rather than an official costume setting.",
+    "collections": [],
+    "license": "Non-commercial use and redistribution only, with credit to wynn, to the extent wynn holds rights in this contribution. Rights in the Doubao character, brand and reference imagery remain with their respective rightsholders; no permission from them is asserted or granted. Unofficial fan art; no affiliation or endorsement.",
+    "description": "A friendly, independently AI-generated Doubao fan-art companion in an ivory cardigan and pale-blue shirt, with a complete waist-up silhouette, nine animation states and sixteen v2 look directions.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "drill-cat--qimi",
     "name": "Drill Cat",
     "localized_names": { "en": "Drill Cat", "zh": "电钻咪" },
@@ -2896,6 +2910,21 @@
     "collections": ["zenless-zone-zero"],
     "license": "Non-commercial use only. Zenless Zone Zero and related intellectual property belong to miHoYo/HoYoverse.",
     "description": "根本没有这种邦布！",
+    "spriteVersionNumber": 2
+  },
+  {
+    "slug": "terraria-guide--laozhengzaici",
+    "name": "向导",
+    "localized_names": { "en": "Guide", "zh": "向导" },
+    "author": "laozhengzaici",
+    "author_handle": "laozhengzaici",
+    "author_url": "https://github.com/laozhengzaici",
+    "primary_category": "Game Characters",
+    "canonical_key": "terraria/guide",
+    "variant_note": "由 laozhengzaici 投稿的独立 AI 辅助制作版本：泰拉瑞亚向导 2D 像素风，依据 Wiki 方形像素眼结构放大眼部，并按用户要求调换眼白与瞳孔的左右颜色顺序；采用与站立一致的紧凑跑步腿长，提供 v2 九类动作与十六个环视方向。",
+    "collections": [],
+    "license": "仅限非商业使用。角色与原版参考美术属于 Terraria / Re-Logic；最终宠物动画的独立制作与适配署名为 laozhengzaici。",
+    "description": "棕色碎发、橄榄绿短袖衬衣、蓝灰长裤与深色鞋的向导像素伙伴。参考泰拉瑞亚原版向导外观，独立生成桌面宠物动作。",
     "spriteVersionNumber": 2
   },
   {

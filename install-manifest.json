@@ -566,6 +566,17 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "doubao-ivory-cardigan--wynn": {
+      "name": "Doubao Ivory Cardigan",
+      "localizedNames": { "en": "Doubao Ivory Cardigan", "zh": "米白开衫豆包" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "d9e0e0cc21a18851996843d5e96915a8719377fafe80fea4cbe85172f5a2d697",
+      "petJsonBytes": 342,
+      "spritesheetSha256": "53a7a5d663d91fbb5c0ae842c5674f6fa69375e657d5a68f4521e6f1ddbdce11",
+      "spritesheetBytes": 1938968,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "drill-cat--qimi": {
       "name": "Drill Cat",
       "localizedNames": { "en": "Drill Cat", "zh": "电钻咪" },
@@ -2395,6 +2406,17 @@
       "petJsonBytes": 198,
       "spritesheetSha256": "02a8bc5c84981addfc5cf1360e20f7ec9f4061c74171967223845592e5084188",
       "spritesheetBytes": 2792074,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
+    "terraria-guide--laozhengzaici": {
+      "name": "向导",
+      "localizedNames": { "en": "Guide", "zh": "向导" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "82ad7c6a3dabbc09699fab5bfc256b8500d44f1f918d81879055ae1f9fd7f429",
+      "petJsonBytes": 311,
+      "spritesheetSha256": "9734502a9ae9b837e364f4459e49a937ffee7314be51f05e9777a6a28c2c9535",
+      "spritesheetBytes": 1193390,
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },

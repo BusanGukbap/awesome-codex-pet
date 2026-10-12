@@ -12,7 +12,7 @@
 
 <a href="https://codexpet.top"><img src="../../assets/cover/awesome-codex-pet-cover.png" alt="Awesome Codex Pet 갤러리 열기"></a>
 
-![pets: 318](https://img.shields.io/badge/pets-318-2ea44f) ![categories: 11](https://img.shields.io/badge/categories-11-0969da) ![languages: en | zh--CN | ko | ja | es](https://img.shields.io/badge/languages-en%20%7C%20zh--CN%20%7C%20ko%20%7C%20ja%20%7C%20es-8250df) ![code: MIT](https://img.shields.io/badge/code-MIT-111111) ![assets: CC BY--NC 4.0](https://img.shields.io/badge/assets-CC%20BY--NC%204.0-f97316) ![install: one command](https://img.shields.io/badge/install-one%20command-111111) [![Pet previews](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml/badge.svg)](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml)
+![pets: 320](https://img.shields.io/badge/pets-320-2ea44f) ![categories: 11](https://img.shields.io/badge/categories-11-0969da) ![languages: en | zh--CN | ko | ja | es](https://img.shields.io/badge/languages-en%20%7C%20zh--CN%20%7C%20ko%20%7C%20ja%20%7C%20es-8250df) ![code: MIT](https://img.shields.io/badge/code-MIT-111111) ![assets: CC BY--NC 4.0](https://img.shields.io/badge/assets-CC%20BY--NC%204.0-f97316) ![install: one command](https://img.shields.io/badge/install-one%20command-111111) [![Pet previews](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml/badge.svg)](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml)
 
 </div>
 
@@ -103,7 +103,7 @@ npx --yes @legeling/codex-pet list
 </table>
 
 <details>
-<summary>전체 펫 목록 (텍스트) · 318</summary>
+<summary>전체 펫 목록 (텍스트) · 320</summary>
 
 ### 게임 캐릭터
 
@@ -163,6 +163,7 @@ npx --yes @legeling/codex-pet list
 <li><a href="../../pets/yae-miko--legeling">八重神子</a> · 제작자 <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="../../pets/dingding-devil--legeling">叮叮恶魔</a> · 제작자 <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="../../pets/ye-shunguang-bangboo--huanghan">叶瞬光邦布</a> · 제작자 <a href="https://github.com/hanhuang22">@hanhuang22</a> · v2</li>
+<li><a href="../../pets/terraria-guide--laozhengzaici">向导</a> · 제작자 <a href="https://github.com/laozhengzaici">@laozhengzaici</a> · v2</li>
 <li><a href="../../pets/virtuosa--legeling">塑心阿尔图罗</a> · 제작자 <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="../../pets/dnf-female-ammo--qunboo">女弹药Q</a> · 제작자 <a href="https://github.com/QunBoo">@QunBoo</a> · v1</li>
 <li><a href="../../pets/iuno--legeling">尤诺</a> · 제작자 <a href="https://github.com/legeling">@legeling</a> · v2</li>
@@ -314,6 +315,7 @@ npx --yes @legeling/codex-pet list
 <li><a href="../../pets/twinkle-twinkle--twinkletwinkle">Dashun&#39;s Twinkle Twinkle</a> · 제작자 @twinkletwinkle · v1</li>
 <li><a href="../../pets/riceball-maid--qishichuan">DeepSeek钢盆饭团</a> · 제작자 <a href="https://github.com/qishichuan">@qishichuan</a> · v2</li>
 <li><a href="../../pets/diaoyi-baobao--d1a0y1bb">Diaoyi Baobao</a> · 제작자 <a href="https://github.com/D1a0y1bb">@D1a0y1bb</a> · v1</li>
+<li><a href="../../pets/doubao-ivory-cardigan--wynn">Doubao Ivory Cardigan</a> · 제작자 <a href="https://github.com/zhou-jianwen">@wynn</a> · v2</li>
 <li><a href="../../pets/gpt-muse--opask">GPT-muse</a> · 제작자 @opask · v1</li>
 <li><a href="../../pets/gpt-dragon-girl--tenghuan123">GPT龙娘</a> · 제작자 <a href="https://github.com/tenghuan123">@tenghuan123</a> · v2</li>
 <li><a href="../../pets/lulu--yogazz">Lulu</a> · 제작자 <a href="https://github.com/YoGazz">@YoGazz</a> · v1</li>
