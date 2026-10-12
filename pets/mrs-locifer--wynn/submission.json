@@ -1,0 +1,38 @@
+{
+  "slug": "mrs-locifer--wynn",
+  "pet_slug": "mrs-locifer",
+  "author_slug": "wynn",
+  "name": "Mrs. Locifer",
+  "author": "wynn",
+  "primary_category": "Fantasy Creatures",
+  "canonical_key": "character/mrs-locifer",
+  "variant_note": "wynn's AI-generated pink-and-white companion design combining Lumei and Locifer reference cues, with nine task animations and sixteen clockwise look directions for Codex v2.",
+  "tags": [
+    "mrs-locifer",
+    "locifer",
+    "lumei",
+    "ai-generated",
+    "3d-toy",
+    "pink",
+    "ruffles",
+    "horns",
+    "wings",
+    "cape",
+    "v2",
+    "look-directions"
+  ],
+  "collections": [],
+  "source_type": "ai-generated-reference-adaptation",
+  "source_notes": "AI-generated pet adaptation of a character concept created in this conversation from two user-supplied private references: Lumei and Locifer. The concept combines Lumei's round golden face, pink outfit and white ruffles with Locifer's horns, feathered wings, red-lined cape and golden ring. The original reference creators and official franchises have not been established. wynn receives adaptation credit; no original character ownership or rights-holder authorization is asserted. Private references and production material are excluded from the package.",
+  "license": "Non-commercial use only. Commercial use is prohibited. Character rights remain with their respective owners.",
+  "description": "A gentle golden companion in pink ruffles, with dark horns, feathered wings, a red-lined black cape, an orange sprout hat and a golden ring.",
+  "preview_image": "../../assets/previews/mrs-locifer--wynn/gifs/idle.gif",
+  "codex_install": {
+    "pet_json": "pet.json",
+    "spritesheet": "spritesheet.webp"
+  },
+  "preview_assets": {
+    "contact_sheet": "../../assets/previews/mrs-locifer--wynn/contact-sheet.png",
+    "gifs_dir": "../../assets/previews/mrs-locifer--wynn/gifs"
+  }
+}
