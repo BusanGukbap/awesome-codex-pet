@@ -1,0 +1,39 @@
+{
+  "slug": "doubao-ivory-cardigan--wynn",
+  "pet_slug": "doubao-ivory-cardigan",
+  "author_slug": "wynn",
+  "name": "Doubao Ivory Cardigan",
+  "localized_names": {
+    "en": "Doubao Ivory Cardigan",
+    "zh": "米白开衫豆包"
+  },
+  "author": "wynn",
+  "author_url": "https://github.com/zhou-jianwen",
+  "primary_category": "Mascots",
+  "canonical_key": "mascot/bytedance/doubao",
+  "variant_note": "An independently AI-generated waist-up Doubao fan-art companion by wynn, wearing an ivory cardigan over a pale-blue shirt. The finished bust silhouette, nine state animations and sixteen v2 gaze directions were made for this contribution; the outfit and torso are fan-art design rather than an official costume setting.",
+  "tags": [
+    "doubao",
+    "fan-art",
+    "ai-generated",
+    "3d-toy",
+    "ivory-cardigan",
+    "half-body",
+    "v2"
+  ],
+  "collections": [],
+  "source_type": "AI-generated fan art",
+  "source_url": "https://apps.apple.com/cn/app/id6459478672",
+  "source_notes": "Independently AI-generated fan art informed by Doubao's official app avatar. The user selected the ivory-cardigan waist-up main look before animation production. The cardigan, pale-blue shirt and finished torso are new fan-art design. Online fan works were inspected for clothing and framing ideas only; those images and the official icon are not redistributed with this package. No individual artist for the official avatar was identified, and no official authorization or endorsement is asserted.",
+  "license": "Non-commercial use and redistribution only, with credit to wynn, to the extent wynn holds rights in this contribution. Rights in the Doubao character, brand and reference imagery remain with their respective rightsholders; no permission from them is asserted or granted. Unofficial fan art; no affiliation or endorsement.",
+  "description": "A friendly, independently AI-generated Doubao fan-art companion in an ivory cardigan and pale-blue shirt, with a complete waist-up silhouette, nine animation states and sixteen v2 look directions.",
+  "preview_image": "../../assets/previews/doubao-ivory-cardigan--wynn/gifs/idle.gif",
+  "codex_install": {
+    "pet_json": "pet.json",
+    "spritesheet": "spritesheet.webp"
+  },
+  "preview_assets": {
+    "contact_sheet": "../../assets/previews/doubao-ivory-cardigan--wynn/contact-sheet.png",
+    "gifs_dir": "../../assets/previews/doubao-ivory-cardigan--wynn/gifs"
+  }
+}
