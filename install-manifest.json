@@ -1717,6 +1717,17 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "qoduck--zhoujianwen": {
+      "name": "Qoduck",
+      "localizedNames": { "en": "Qoduck", "zh": "Q 达鸭" },
+      "spriteVersionNumber": 1,
+      "petJsonSha256": "fe9a4cb8fb69a0770b6b120664942eafca5af3dc3ba6cf1e83656c854eea172d",
+      "petJsonBytes": 314,
+      "spritesheetSha256": "0b7dbe521eef90e38d0050867b29fcafa1604779983474ecce107e4929e15bc2",
+      "spritesheetBytes": 2085550,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 1872
+    },
     "raiden-shogun--lingxiaotian": {
       "name": "Raiden Shogun",
       "localizedNames": { "en": "Raiden Shogun", "zh": "雷电将军" },
