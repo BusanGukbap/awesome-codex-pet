@@ -1,0 +1,34 @@
+{
+  "slug": "grass-cow--wynn",
+  "pet_slug": "grass-cow",
+  "author_slug": "wynn",
+  "name": "Grass Cow",
+  "author": "wynn",
+  "primary_category": "Memes",
+  "canonical_key": "meme/grass-cow",
+  "variant_note": "wynn's AI-generated 3D toy animation adaptation with a red soda can, nine task animations and sixteen clockwise look directions for Codex v2.",
+  "tags": [
+    "grass-cow",
+    "cow",
+    "meme",
+    "ai-generated",
+    "3d-toy",
+    "soda-can",
+    "v2",
+    "look-directions"
+  ],
+  "collections": [],
+  "source_type": "ai-generated-reference-adaptation",
+  "source_notes": "An existing AI-generated animation adaptation of a user-supplied private Grass Cow reference. The original character creator and rights holders have not been established; wynn is credited for the pet adaptation and submission, not as the original character artist. The red can retains the reference's white Chinese Coca-Cola graphic at the user's explicit request. No affiliation with or authorization by character or trademark rights holders is asserted. Private references and production files are excluded from the package.",
+  "license": "Non-commercial use only. Commercial use is prohibited. Character and trademark rights remain with their respective owners.",
+  "description": "A smug black-and-white cartoon cow with bold eyebrows, half-lidded eyes and a red Coca-Cola can, animated in a soft 3D toy style.",
+  "preview_image": "../../assets/previews/grass-cow--wynn/gifs/idle.gif",
+  "codex_install": {
+    "pet_json": "pet.json",
+    "spritesheet": "spritesheet.webp"
+  },
+  "preview_assets": {
+    "contact_sheet": "../../assets/previews/grass-cow--wynn/contact-sheet.png",
+    "gifs_dir": "../../assets/previews/grass-cow--wynn/gifs"
+  }
+}
