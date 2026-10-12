@@ -1,0 +1,40 @@
+{
+  "slug": "tabby-cat--zhou-jianwen",
+  "pet_slug": "tabby-cat",
+  "author_slug": "zhou-jianwen",
+  "name": "Tabby Cat",
+  "localized_names": {
+    "en": "Tabby Cat",
+    "zh": "狸花猫"
+  },
+  "author": "zhou-jianwen",
+  "author_handle": "zhou-jianwen",
+  "author_url": "https://github.com/zhou-jianwen",
+  "primary_category": "Animals",
+  "canonical_key": "community-request/239",
+  "variant_note": "An independent interpretation of the individual brown tabby in request #239, with green almond eyes, a dark forehead M, cream chin and brown paws. Existing cat packages and reference-photo pixels are not reused.",
+  "collections": ["animal-companions"],
+  "tags": [
+    "tabby-cat",
+    "green-eyes",
+    "community-request",
+    "ai-generated",
+    "v2"
+  ],
+  "source_type": "independently-ai-generated-from-reference",
+  "source_url": "https://github.com/legeling/awesome-codex-pet/issues/239",
+  "license": "Non-commercial use only. Commercial use is prohibited. No rights to the requester-supplied reference photograph are claimed.",
+  "description": "A softly illustrated green-eyed brown tabby based on the individual cat in request #239, with nine task animation states and sixteen clockwise look directions.",
+  "asset_note": "The final sprite artwork is independently AI-generated with OpenAI image generation, directed and quality-checked in Codex. The photograph is used as appearance reference only; its background and pixels are not copied into the runtime asset.",
+  "reference_note": "The reference photo was supplied through the no-account request form in Issue #239. The photographer, cat owner, and reference license are not identified; this submission does not invent those attributions. This contribution provides a Codex v2 sprite asset, while desktop window, mouse, and menu behavior depends on the host application.",
+  "preview_image": "../../assets/previews/tabby-cat--zhou-jianwen/gifs/idle.gif",
+  "codex_install": {
+    "pet_json": "pet.json",
+    "spritesheet": "spritesheet.webp"
+  },
+  "preview_assets": {
+    "contact_sheet": "../../assets/previews/tabby-cat--zhou-jianwen/contact-sheet.png",
+    "gifs_dir": "../../assets/previews/tabby-cat--zhou-jianwen/gifs"
+  },
+  "spritesheet_sha256": "ff2ecd17708fa443bc942e48b941bb216000dc696ac12ebce08abe921495b7ef"
+}
