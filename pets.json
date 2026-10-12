@@ -1034,6 +1034,18 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "grass-cow--wynn",
+    "name": "Grass Cow",
+    "author": "wynn",
+    "primary_category": "Memes",
+    "canonical_key": "meme/grass-cow",
+    "variant_note": "wynn's AI-generated 3D toy animation adaptation with a red soda can, nine task animations and sixteen clockwise look directions for Codex v2.",
+    "collections": [],
+    "license": "Non-commercial use only. Commercial use is prohibited. Character and trademark rights remain with their respective owners.",
+    "description": "A smug black-and-white cartoon cow with bold eyebrows, half-lidded eyes and a red Coca-Cola can, animated in a soft 3D toy style.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "hajimi--zeyuwang1999",
     "name": "Hajimi",
     "author": "zeyu.wang",
@@ -2178,6 +2190,18 @@
     "collections": [],
     "license": "CC BY-NC 4.0",
     "spriteVersionNumber": 1
+  },
+  {
+    "slug": "ryo-yamada--zhou-jianwen",
+    "name": "Ryo Yamada",
+    "localized_names": { "en": "Ryo Yamada", "zh": "山田凉" },
+    "author": "zhou-jianwen",
+    "primary_category": "Anime Characters",
+    "canonical_key": "bocchi-the-rock/ryo-yamada",
+    "collections": ["bocchi-the-rock"],
+    "license": "Non-commercial fan art only. Character and franchise rights remain with their respective owners; no authorization from them or from the request reference's unidentified artist is claimed.",
+    "description": "Independently AI-drawn fan art of Ryo Yamada from BOCCHI THE ROCK! riding a little yellow snail with a mint-green shell, made for community request #267. The request image was a design reference only; its original artist was not identified, and no permission or authorship of that reference is claimed. The reference image is not included.",
+    "spriteVersionNumber": 2
   },
   {
     "slug": "saber--petdex-zhenyou-ling",

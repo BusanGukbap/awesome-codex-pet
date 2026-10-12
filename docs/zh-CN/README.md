@@ -12,7 +12,7 @@
 
 <a href="https://codexpet.top"><img src="../../assets/cover/awesome-codex-pet-cover.png" alt="进入 Awesome Codex Pet 精品画廊"></a>
 
-![pets: 323](https://img.shields.io/badge/pets-323-2ea44f) ![categories: 11](https://img.shields.io/badge/categories-11-0969da) ![languages: en | zh--CN | ko | ja | es](https://img.shields.io/badge/languages-en%20%7C%20zh--CN%20%7C%20ko%20%7C%20ja%20%7C%20es-8250df) ![code: MIT](https://img.shields.io/badge/code-MIT-111111) ![assets: CC BY--NC 4.0](https://img.shields.io/badge/assets-CC%20BY--NC%204.0-f97316) ![install: one command](https://img.shields.io/badge/install-one%20command-111111) [![Pet previews](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml/badge.svg)](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml)
+![pets: 325](https://img.shields.io/badge/pets-325-2ea44f) ![categories: 11](https://img.shields.io/badge/categories-11-0969da) ![languages: en | zh--CN | ko | ja | es](https://img.shields.io/badge/languages-en%20%7C%20zh--CN%20%7C%20ko%20%7C%20ja%20%7C%20es-8250df) ![code: MIT](https://img.shields.io/badge/code-MIT-111111) ![assets: CC BY--NC 4.0](https://img.shields.io/badge/assets-CC%20BY--NC%204.0-f97316) ![install: one command](https://img.shields.io/badge/install-one%20command-111111) [![Pet previews](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml/badge.svg)](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml)
 
 </div>
 
@@ -103,7 +103,7 @@ npx --yes @legeling/codex-pet list
 </table>
 
 <details>
-<summary>完整宠物索引（纯文字） · 323</summary>
+<summary>完整宠物索引（纯文字） · 325</summary>
 
 ### 游戏角色
 
@@ -235,6 +235,7 @@ npx --yes @legeling/codex-pet list
 <li><a href="../../pets/rem--l1">蕾姆</a> · 作者 <a href="https://codex-pets.net/users/l1">@l1</a> · v1</li>
 <li><a href="../../pets/rinami--siiverash">Rinami Himesaki</a> · 作者 <a href="https://github.com/SiIverAsh">@SiIverAsh</a> · v1</li>
 <li><a href="../../pets/roxy-pixel--gravity">Roxy Pixel</a> · 作者 @gravity · v1</li>
+<li><a href="../../pets/ryo-yamada--zhou-jianwen">山田凉</a> · 作者 @zhou-jianwen · v2</li>
 <li><a href="../../pets/saber--petdex-zhenyou-ling">阿尔托莉雅</a> · 作者 @真宵 绫. · v1</li>
 <li><a href="../../pets/saitama-pixel--patrickxunuo">Saitama Pixel</a> · 作者 <a href="https://github.com/patrickxunuo">@patrickxunuo</a> · v2</li>
 <li><a href="../../pets/sakamoto--zpzjzj">阪本</a> · 作者 <a href="https://github.com/zpzjzj">@zpzjzj</a> · v2</li>
@@ -423,6 +424,7 @@ npx --yes @legeling/codex-pet list
 
 <ul>
 <li><a href="../../pets/drill-cat--qimi">电钻咪</a> · 作者 <a href="https://github.com/qishichuan">@qishichuan</a> · v2</li>
+<li><a href="../../pets/grass-cow--wynn">Grass Cow</a> · 作者 @wynn · v2</li>
 <li><a href="../../pets/hami--tat">哈基米</a> · 作者 <a href="https://github.com/TATcc">@TATcc</a> · v2</li>
 <li><a href="../../pets/katana-cheems--thankyou-cheems">Katana Cheems</a> · 作者 <a href="https://github.com/Thankyou-Cheems">@Thankyou-Cheems</a> · v1</li>
 <li><a href="../../pets/maodie--trahex">耄耋</a> · 作者 <a href="https://github.com/Trahex">@Trahex</a> · v2</li>

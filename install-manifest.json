@@ -854,6 +854,16 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "grass-cow--wynn": {
+      "name": "Grass Cow",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "ce4a9c514a13e6d55c258ab9eefaa7f839681c82f3551545fb059c9293577271",
+      "petJsonBytes": 282,
+      "spritesheetSha256": "45430b8649f0952aa1e643f3577352cd6a1a594348046459de0e41a00276ca6e",
+      "spritesheetBytes": 1837968,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "hajimi--zeyuwang1999": {
       "name": "Hajimi",
       "spriteVersionNumber": 1,
@@ -1805,6 +1815,17 @@
       "spritesheetBytes": 1809462,
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
+    },
+    "ryo-yamada--zhou-jianwen": {
+      "name": "Ryo Yamada",
+      "localizedNames": { "en": "Ryo Yamada", "zh": "山田凉" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "3e103facb0fc1d789b57c1fae628bb7189c425409880365794b1019110861200",
+      "petJsonBytes": 263,
+      "spritesheetSha256": "7e11cf89558cd99438029b4982eb02ac5d0712ca765030d4b34cda51dd7cac9e",
+      "spritesheetBytes": 2052638,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
     },
     "saber--petdex-zhenyou-ling": {
       "name": "Saber",
