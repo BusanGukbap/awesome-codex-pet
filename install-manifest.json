@@ -1975,6 +1975,17 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
     },
+    "steve--laozhengzaici": {
+      "name": "Steve",
+      "localizedNames": { "en": "Steve", "zh": "史蒂夫" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "5b968093e5f97f92f62696b52a6f0c916e6de3baf5d11fa0168016e7f9e59eeb",
+      "petJsonBytes": 328,
+      "spritesheetSha256": "bb7c23f61755859633d1d229a1e5e24a4b09b68363d936ed8e245ed0b557b7c1",
+      "spritesheetBytes": 165682,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "sunny-retriever--legeling": {
       "name": "Sunny Retriever",
       "localizedNames": { "en": "Sunny Retriever", "zh": "暖阳金毛" },
@@ -2561,6 +2572,17 @@
       "spritesheetBytes": 1640120,
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
+    },
+    "xiaofei--fanfan-436": {
+      "name": "小菲",
+      "localizedNames": { "en": "Xiaofei", "zh": "小菲" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "a3ba0293c3256382baea45e8ece11ce1631b9116e59f53326b9a717fe2931df6",
+      "petJsonBytes": 256,
+      "spritesheetSha256": "201b8f8411f51e293957779b6eea66c42a6b5f7f140f7abdbf942f63c5d622ad",
+      "spritesheetBytes": 2236208,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
     },
     "xiaoda--legeling": {
       "name": "小达",

@@ -12,7 +12,7 @@
 
 <a href="https://codexpet.top"><img src="./assets/cover/awesome-codex-pet-cover.png" alt="Open the Awesome Codex Pet gallery"></a>
 
-![pets: 316](https://img.shields.io/badge/pets-316-2ea44f) ![categories: 11](https://img.shields.io/badge/categories-11-0969da) ![languages: en | zh--CN | ko | ja | es](https://img.shields.io/badge/languages-en%20%7C%20zh--CN%20%7C%20ko%20%7C%20ja%20%7C%20es-8250df) ![code: MIT](https://img.shields.io/badge/code-MIT-111111) ![assets: CC BY--NC 4.0](https://img.shields.io/badge/assets-CC%20BY--NC%204.0-f97316) ![install: one command](https://img.shields.io/badge/install-one%20command-111111) [![Pet previews](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml/badge.svg)](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml)
+![pets: 318](https://img.shields.io/badge/pets-318-2ea44f) ![categories: 11](https://img.shields.io/badge/categories-11-0969da) ![languages: en | zh--CN | ko | ja | es](https://img.shields.io/badge/languages-en%20%7C%20zh--CN%20%7C%20ko%20%7C%20ja%20%7C%20es-8250df) ![code: MIT](https://img.shields.io/badge/code-MIT-111111) ![assets: CC BY--NC 4.0](https://img.shields.io/badge/assets-CC%20BY--NC%204.0-f97316) ![install: one command](https://img.shields.io/badge/install-one%20command-111111) [![Pet previews](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml/badge.svg)](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml)
 
 </div>
 
@@ -103,7 +103,7 @@ The **Update** action is an AI-assisted v1-to-v2 conversion, not a download noti
 </table>
 
 <details>
-<summary>Full pet index (text only) · 316</summary>
+<summary>Full pet index (text only) · 318</summary>
 
 ### Game Characters
 
@@ -154,6 +154,7 @@ The **Update** action is an AI-assisted v1-to-v2 conversion, not a download noti
 <li><a href="./pets/silver-wolf--lingxiaotian">Silver Wolf</a> · by <a href="https://github.com/legeling">@legeling</a> · v1</li>
 <li><a href="./pets/sonetto--chenxin-dlut">Sonetto</a> · by <a href="https://github.com/chenxin-dlut">@chenxin-dlut</a> · v1</li>
 <li><a href="./pets/sparkle--lingxiaotian">Sparkle</a> · by <a href="https://github.com/legeling">@legeling</a> · v1</li>
+<li><a href="./pets/steve--laozhengzaici">Steve</a> · by <a href="https://github.com/laozhengzaici">@laozhengzaici</a> · v2</li>
 <li><a href="./pets/susuta--xiangzi529">Susuta</a> · by <a href="https://github.com/Xiangzi529">@Xiangzi529</a> · v2</li>
 <li><a href="./pets/tingyun--lingxiaotian">Tingyun</a> · by <a href="https://github.com/legeling">@legeling</a> · v1</li>
 <li><a href="./pets/vertin--chenxin-dlut">Vertin</a> · by <a href="https://github.com/chenxin-dlut">@chenxin-dlut</a> · v1</li>
@@ -252,6 +253,7 @@ The **Update** action is an AI-assisted v1-to-v2 conversion, not a download noti
 <li><a href="./pets/kita-ikuyo--legeling">喜多郁代</a> · by <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="./pets/dashu--legeling">大鼠</a> · by <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="./pets/giyu-tomioka--wangfan002">Giyu Tomioka</a> · by @wangfan002 · v1</li>
+<li><a href="./pets/xiaofei--fanfan-436">Xiaofei</a> · by <a href="https://github.com/Fanfan-436">@Fanfan-436</a> · v2</li>
 <li><a href="./pets/muichiro-tokito--wangfan002">Muichiro Tokito</a> · by @wangfan002 · v1</li>
 <li><a href="./pets/asuka--masashitoda1">Asuka — Chibi (v2)</a> · by <a href="https://github.com/MasashiToda1">@MasashiToda1</a> · v2</li>
 <li><a href="./pets/otama--legeling">海贼王小玉</a> · by <a href="https://github.com/legeling">@legeling</a> · v2</li>
