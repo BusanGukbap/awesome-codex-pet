@@ -1,0 +1,37 @@
+{
+  "slug": "doubao-halloween--wynn",
+  "pet_slug": "doubao-halloween",
+  "author_slug": "wynn",
+  "name": "Halloween Doubao",
+  "author": "wynn",
+  "author_url": "https://github.com/zhou-jianwen",
+  "primary_category": "Mascots",
+  "canonical_key": "mascot/bytedance/doubao",
+  "variant_note": "A Halloween portrait edition by wynn, distinct from the same author's app-avatar and ivory-cardigan editions. It preserves the recognizable chestnut bob and app-avatar face while adding a black witch hat with an orange band, a purple-lined cape, a pumpkin clasp and a lavender circular fill. All nine state animations and sixteen v2 gaze directions are newly AI-generated for this costume.",
+  "tags": [
+    "doubao",
+    "halloween",
+    "witch",
+    "pumpkin",
+    "app-avatar",
+    "fan-art",
+    "ai-generated",
+    "3d-toy",
+    "v2"
+  ],
+  "collections": [],
+  "source_type": "AI-generated fan art",
+  "source_url": "https://codexpet.top/pets/doubao-app-avatar--wynn",
+  "source_notes": "AI-generated Halloween adaptation and animation based on wynn's Doubao App Avatar pet, used as an appearance reference. The user approved the new main look before animation. The original avatar was inspired by Doubao's official app icon (https://apps.apple.com/cn/app/id6459478672); its individual artist was not identified. Reference images are not redistributed in this package. No official authorization, affiliation or endorsement is asserted.",
+  "license": "Non-commercial use and redistribution only, with credit to wynn, to the extent wynn holds rights in this contribution. Rights in the Doubao character, brand and reference imagery remain with their respective rightsholders; no permission from them is asserted or granted. Unofficial fan art; no affiliation or endorsement.",
+  "description": "Doubao dresses up for Halloween in a black witch hat, purple-lined cape and pumpkin clasp. A lavender circle frames the portrait; outside it is transparent. Nine state animations and sixteen v2 look directions keep the costume consistent.",
+  "preview_image": "../../assets/previews/doubao-halloween--wynn/gifs/idle.gif",
+  "codex_install": {
+    "pet_json": "pet.json",
+    "spritesheet": "spritesheet.webp"
+  },
+  "preview_assets": {
+    "contact_sheet": "../../assets/previews/doubao-halloween--wynn/contact-sheet.png",
+    "gifs_dir": "../../assets/previews/doubao-halloween--wynn/gifs"
+  }
+}
