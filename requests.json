@@ -33,11 +33,91 @@
     },
     "assignees": [],
     "createdAt": "2026-08-12T12:02:54Z",
-    "updatedAt": "2026-10-12T09:08:31Z",
+    "updatedAt": "2026-10-12T09:20:39Z",
     "closedAt": null,
-    "comments": 1,
+    "comments": 0,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/119"
+  },
+  {
+    "number": 171,
+    "character": "达斯维达",
+    "characterDetails": "character",
+    "franchise": "",
+    "category": "other",
+    "version": "v2",
+    "requestType": "",
+    "referenceStatus": "",
+    "references": "",
+    "referenceUrls": [],
+    "referenceImages": [
+      "https://github.com/user-attachments/assets/e3a1c907-55d7-49db-8f52-dc7b65db11d2"
+    ],
+    "referenceThumbnails": [],
+    "visualDirection": "",
+    "nameLanguages": "",
+    "attribution": "",
+    "duplicateCheck": "",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "CyberX0725",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/53927636?v=4",
+      "url": "https://github.com/CyberX0725"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-10T07:35:08Z",
+    "updatedAt": "2026-10-12T09:20:00Z",
+    "closedAt": null,
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/171"
+  },
+  {
+    "number": 156,
+    "character": "皮卡丘",
+    "characterDetails": "皮卡丘",
+    "franchise": "宝可梦",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://zh.wikipedia.org/wiki/%E7%9A%AE%E5%8D%A1%E4%B8%98",
+    "referenceUrls": [
+      "https://zh.wikipedia.org/wiki/%E7%9A%AE%E5%8D%A1%E4%B8%98"
+    ],
+    "referenceImages": [],
+    "referenceThumbnails": [],
+    "visualDirection": "完美复刻",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-02T10:05:27Z",
+    "updatedAt": "2026-10-12T09:19:42Z",
+    "closedAt": null,
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/156"
   },
   {
     "number": 223,
@@ -120,86 +200,6 @@
     "comments": 1,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/130"
-  },
-  {
-    "number": 156,
-    "character": "皮卡丘",
-    "characterDetails": "皮卡丘",
-    "franchise": "宝可梦",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://zh.wikipedia.org/wiki/%E7%9A%AE%E5%8D%A1%E4%B8%98",
-    "referenceUrls": [
-      "https://zh.wikipedia.org/wiki/%E7%9A%AE%E5%8D%A1%E4%B8%98"
-    ],
-    "referenceImages": [],
-    "referenceThumbnails": [],
-    "visualDirection": "完美复刻",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "triage",
-    "labels": [
-      "type: request",
-      "status: triage",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-09-02T10:05:27Z",
-    "updatedAt": "2026-10-12T09:08:11Z",
-    "closedAt": null,
-    "comments": 1,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/156"
-  },
-  {
-    "number": 171,
-    "character": "达斯维达",
-    "characterDetails": "character",
-    "franchise": "",
-    "category": "other",
-    "version": "v2",
-    "requestType": "",
-    "referenceStatus": "",
-    "references": "",
-    "referenceUrls": [],
-    "referenceImages": [
-      "https://github.com/user-attachments/assets/e3a1c907-55d7-49db-8f52-dc7b65db11d2"
-    ],
-    "referenceThumbnails": [],
-    "visualDirection": "",
-    "nameLanguages": "",
-    "attribution": "",
-    "duplicateCheck": "",
-    "state": "open",
-    "status": "triage",
-    "labels": [
-      "type: request",
-      "status: triage",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "CyberX0725",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/53927636?v=4",
-      "url": "https://github.com/CyberX0725"
-    },
-    "assignees": [],
-    "createdAt": "2026-09-10T07:35:08Z",
-    "updatedAt": "2026-10-12T09:08:05Z",
-    "closedAt": null,
-    "comments": 2,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/171"
   },
   {
     "number": 91,
@@ -360,9 +360,9 @@
     },
     "assignees": [],
     "createdAt": "2026-08-10T12:28:41Z",
-    "updatedAt": "2026-10-12T09:11:14Z",
+    "updatedAt": "2026-10-12T09:19:04Z",
     "closedAt": "2026-10-12T09:10:21Z",
-    "comments": 4,
+    "comments": 5,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/112"
   },
