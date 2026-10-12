@@ -880,8 +880,8 @@
       "spriteVersionNumber": 2,
       "petJsonSha256": "420c2800130af644ccce2f9de87637c2284929cdf1d18c93a1875c5e3fdd94ed",
       "petJsonBytes": 239,
-      "spritesheetSha256": "95f9d38500fa87ecd4f3849803a335e7764bf393e3ffa1421f7b94dfb8f87b60",
-      "spritesheetBytes": 2591996,
+      "spritesheetSha256": "07ce006fd6ff83f7c7041a2c22d501717946ac7a07e6313366719c430d34f715",
+      "spritesheetBytes": 2657490,
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
@@ -1053,6 +1053,17 @@
       "spritesheetBytes": 2179232,
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
+    },
+    "kafka-pocket--chaorookie": {
+      "name": "Kafka Pocket",
+      "localizedNames": { "en": "Kafka Pocket", "zh": "卡芙卡 · 口袋伙伴" },
+      "spriteVersionNumber": 1,
+      "petJsonSha256": "bbf1d2a4420c01747a6c5230b74442f5b4f7d42fdbbd77b351fed1093382f554",
+      "petJsonBytes": 265,
+      "spritesheetSha256": "d42aa92f3e7f3706f8cbfb69376cddaf14eebed2746bf17c51401d90f25e3bef",
+      "spritesheetBytes": 759670,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 1872
     },
     "kaguya-luna--enclairfarron": {
       "name": "Kaguya Luna",
@@ -2068,6 +2079,17 @@
       "petJsonBytes": 261,
       "spritesheetSha256": "72b7479758bbc4e34ef69ce6412e25cd256e8efd9f40d09d8f4d748fcad2d9c7",
       "spritesheetBytes": 2618178,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
+    "swallow-avatar--zhou-jianwen": {
+      "name": "Swallow Avatar",
+      "localizedNames": { "en": "Swallow Avatar", "zh": "燕子头像" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "45d94068166121f7f54a57790d18f256ad3a310ee595b36b2fc5210b5aa7a2d1",
+      "petJsonBytes": 269,
+      "spritesheetSha256": "42020d61f8e186f8c9f72432e452b89db11ca061d2bc84b989116f5feb5e2cfd",
+      "spritesheetBytes": 1658514,
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },

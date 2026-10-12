@@ -1283,6 +1283,21 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "kafka-pocket--chaorookie",
+    "name": "Kafka Pocket",
+    "localized_names": { "en": "Kafka Pocket", "zh": "卡芙卡 · 口袋伙伴" },
+    "author": "chaoRookie",
+    "author_handle": "chaoRookie",
+    "author_url": "https://github.com/chaoRookie",
+    "primary_category": "Game Characters",
+    "canonical_key": "fictional/honkai-star-rail/kafka",
+    "variant_note": "chaoRookie 的 Kafka Pocket 像素 Q 版修订版；保留酒红发、圆墨镜与黑白外套造型，采用 V1 九行动画；从原始生成素材重提取完整跳跃帧，恢复左跑镜像的正向帧序，并修复跑步与失败动作中的横向位置跳变。",
+    "collections": ["honkai-star-rail"],
+    "license": "仅限非商业使用，禁止商用。角色及原作相关权利归原权利人所有。",
+    "description": "《崩坏：星穹铁道》卡芙卡的像素 Q 版 Codex 宠物。最终资产署名投稿与适配作者 chaoRookie；根据保留的 2026 年 5 月本地制作记录，主体参考与八个动作源由内置 imagegen 生成，左跑由右跑镜像派生。本次沿用这些生成像素，重新提取并装配跳跃帧、修正镜像帧序与位置注册，不把角色原作或参考图作者署为本宠物作者。角色参考仅用于制作，不随包上传；本次没有引入第三方现成宠物图集。仅限非商业使用。",
+    "spriteVersionNumber": 1
+  },
+  {
     "slug": "kaguya-luna--enclairfarron",
     "name": "Kaguya Luna",
     "localized_names": { "en": "Kaguya Luna", "zh": "辉夜姬" },
@@ -2497,6 +2512,21 @@
     "collections": [],
     "license": "仅限个人非商业使用。AI 辅助制作的非官方《Aniimo》羞羞獭同人作品，不代表或暗示已获得 Pawprint Studio 授权；角色与相关权利归原权利人所有。",
     "description": "Xiangzi529 使用 OpenAI 图像生成工具制作并逐动作编排的《Aniimo》羞羞獭非官方同人 v2 Codex 宠物，保留白色绒毛、蓝色腹部和标志性贝壳铲。",
+    "spriteVersionNumber": 2
+  },
+  {
+    "slug": "swallow-avatar--zhou-jianwen",
+    "name": "Swallow Avatar",
+    "localized_names": { "en": "Swallow Avatar", "zh": "燕子头像" },
+    "author": "zhou-jianwen",
+    "author_handle": "zhou-jianwen",
+    "author_url": "https://github.com/zhou-jianwen",
+    "primary_category": "Animals",
+    "canonical_key": "community-request/101",
+    "variant_note": "Independent plush-bird interpretation of the actual swallow photograph supplied in request #101, preserving the requested indigo, white and coral palette, attached feather crest and forked tail. The request mentions a personal avatar but includes no human portrait; no human likeness is inferred or claimed.",
+    "collections": ["animal-companions"],
+    "license": "CC BY-NC 4.0 for the independently generated pet artwork. Non-commercial use only; commercial use is prohibited. No rights to the requester-supplied photograph are claimed.",
+    "description": "A cheerful rounded plush swallow bird in deep indigo, snowy white and coral, with a tiny attached crest and a connected forked tail, for nine task states and sixteen clockwise look directions.",
     "spriteVersionNumber": 2
   },
   {
