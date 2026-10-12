@@ -1523,6 +1523,18 @@
     "spriteVersionNumber": 1
   },
   {
+    "slug": "locifer--wynn",
+    "name": "Locifer",
+    "author": "wynn",
+    "primary_category": "Fantasy Creatures",
+    "canonical_key": "character/locifer",
+    "variant_note": "wynn's AI-generated 3D toy interpretation with nine task animations and sixteen clockwise look directions for Codex v2.",
+    "collections": [],
+    "license": "Non-commercial use only. Commercial use is prohibited. Character rights remain with their respective owners.",
+    "description": "A cheeky golden companion with dark horns, feathered wings, a red-lined cape, an orange fruit hat and a golden ring, animated in a soft 3D toy style.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "luffy-gear-5--jordsshmords1",
     "name": "Luffy Gear 5",
     "localized_names": { "en": "Luffy Gear 5", "zh": "五档路飞" },

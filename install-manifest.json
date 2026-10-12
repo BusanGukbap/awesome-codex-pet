@@ -1255,6 +1255,16 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
     },
+    "locifer--wynn": {
+      "name": "Locifer",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "3c536153f57c465d4a86776fae9ea746133a8b292ff17299afa4a8b4faa1b838",
+      "petJsonBytes": 262,
+      "spritesheetSha256": "050a5a955d492fbf8916cf901d9c43e2671c9fb692f653ce235a773e570285fc",
+      "spritesheetBytes": 2705618,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "luffy-gear-5--jordsshmords1": {
       "name": "Luffy Gear 5",
       "localizedNames": { "en": "Luffy Gear 5", "zh": "五档路飞" },
