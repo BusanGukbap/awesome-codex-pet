@@ -1,0 +1,22 @@
+{
+  "slug": "workbuddy--wynn",
+  "pet_slug": "workbuddy",
+  "author_slug": "wynn",
+  "name": "WorkBuddy",
+  "author": "wynn",
+  "author_handle": "wynn",
+  "primary_category": "Mascots",
+  "canonical_key": "brand/workbuddy",
+  "variant_note": "Unofficial independently AI-generated Codex v2 adaptation by wynn of WorkBuddy's green-and-white cat-eared app icon. This floating icon-face edition is visually distinct from the silver full-body WorkBuddy Robot edition. Nine standard animation states and sixteen look directions are newly adapted for Codex.",
+  "tags": ["cat-ears", "green", "white", "mascot", "ai-generated"],
+  "collections": [],
+  "source_type": "ai-generated",
+  "source_url": "https://www.workbuddy.cn/",
+  "license": "Non-commercial use only. WorkBuddy branding belongs to its respective rights holder. This unofficial adaptation does not imply official permission, endorsement, or redistribution authorization.",
+  "description": "A floating green-and-white cat-eared face with white capsule eyes, faithfully adapted from WorkBuddy's app icon. Independently AI-generated fan adaptation; official imagery was used as reference only.",
+  "preview_image": "../../assets/previews/workbuddy--wynn/gifs/idle.gif",
+  "codex_install": {
+    "pet_json": "pet.json",
+    "spritesheet": "spritesheet.webp"
+  }
+}
