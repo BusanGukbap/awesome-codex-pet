@@ -1,47 +1,5 @@
 [
   {
-    "number": 91,
-    "character": "Eeyore",
-    "characterDetails": "Eeyore",
-    "franchise": "Eeyore",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://mentalhealthathome.org/wp-content/uploads/eeyore.jpg",
-    "referenceUrls": [
-      "https://mentalhealthathome.org/wp-content/uploads/eeyore.jpg"
-    ],
-    "referenceImages": [
-      "https://mentalhealthathome.org/wp-content/uploads/eeyore.jpg"
-    ],
-    "referenceThumbnails": [],
-    "visualDirection": "Let the community maker decide.",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "triage",
-    "labels": [
-      "type: request",
-      "status: triage",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-08-06T03:05:18Z",
-    "updatedAt": "2026-10-12T07:18:40Z",
-    "closedAt": null,
-    "comments": 0,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/91"
-  },
-  {
     "number": 112,
     "character": "紫灵",
     "characterDetails": "紫灵",
@@ -61,6 +19,46 @@
     "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
     "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
     "state": "open",
+    "status": "in-progress",
+    "labels": [
+      "type: request",
+      "status: in-progress",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-08-10T12:28:41Z",
+    "updatedAt": "2026-10-12T09:02:19Z",
+    "closedAt": null,
+    "comments": 2,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/112"
+  },
+  {
+    "number": 119,
+    "character": "Spiderman",
+    "characterDetails": "Spiderman",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSpiderman%2Fcomments%2F1q5ql90%2Fwhatshappeningwithspidermanbrandnewday%2F&ved=0CBYQjRxqFwoTCPCmt-f-mpYDFQAAAAAdAAAAABA3&opi=89978449",
+    "referenceUrls": [
+      "https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSpiderman%2Fcomments%2F1q5ql90%2Fwhatshappeningwithspidermanbrandnewday%2F&ved=0CBYQjRxqFwoTCPCmt-f-mpYDFQAAAAAdAAAAABA3&opi=89978449"
+    ],
+    "referenceImages": [],
+    "referenceThumbnails": [],
+    "visualDirection": "Let the community maker decide.",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
     "status": "triage",
     "labels": [
       "type: request",
@@ -74,52 +72,12 @@
       "url": "https://github.com/apps/github-actions"
     },
     "assignees": [],
-    "createdAt": "2026-08-10T12:28:41Z",
-    "updatedAt": "2026-10-12T05:44:45Z",
+    "createdAt": "2026-08-12T12:02:54Z",
+    "updatedAt": "2026-10-12T09:08:31Z",
     "closedAt": null,
     "comments": 1,
     "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/112"
-  },
-  {
-    "number": 171,
-    "character": "达斯维达",
-    "characterDetails": "character",
-    "franchise": "",
-    "category": "other",
-    "version": "v2",
-    "requestType": "",
-    "referenceStatus": "",
-    "references": "",
-    "referenceUrls": [],
-    "referenceImages": [
-      "https://github.com/user-attachments/assets/e3a1c907-55d7-49db-8f52-dc7b65db11d2"
-    ],
-    "referenceThumbnails": [],
-    "visualDirection": "",
-    "nameLanguages": "",
-    "attribution": "",
-    "duplicateCheck": "",
-    "state": "open",
-    "status": "triage",
-    "labels": [
-      "type: request",
-      "status: triage",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "CyberX0725",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/53927636?v=4",
-      "url": "https://github.com/CyberX0725"
-    },
-    "assignees": [],
-    "createdAt": "2026-09-10T07:35:08Z",
-    "updatedAt": "2026-10-12T05:03:10Z",
-    "closedAt": null,
-    "comments": 1,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/171"
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/119"
   },
   {
     "number": 223,
@@ -157,11 +115,173 @@
     },
     "assignees": [],
     "createdAt": "2026-09-27T15:16:47Z",
-    "updatedAt": "2026-09-27T15:16:47Z",
+    "updatedAt": "2026-10-12T09:08:24Z",
     "closedAt": null,
-    "comments": 0,
+    "comments": 1,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/223"
+  },
+  {
+    "number": 130,
+    "character": "Spider-man",
+    "characterDetails": "Spider-man",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://www.google.com/imgres?q=spider%20man&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2F2%2F21%2FWebofSpider-ManVol1129-1.png%2F250px-WebofSpider-ManVol1129-1.png%3Futmsource%3Den.wikipedia.org%26utmcampaign%3Dparser%26utmcontent%3Dthumbnail&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSpider-Man&docid=ZK3CqqRY00jQFM&tbnid=1F-juca7i4i5M&vet=12ahUKEwiqzZvg7qmWAxXOcvEDHQqWC3IQnPAOegQILhAA..i&w=250&h=333&hcb=2&itg=1&ved=2ahUKEwiqzZvg7qmWAxXOcvEDHQqWC3IQn",
+    "referenceUrls": [
+      "https://www.google.com/imgres?q=spider%20man&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2F2%2F21%2FWebofSpider-ManVol1129-1.png%2F250px-WebofSpider-ManVol1129-1.png%3Futmsource%3Den.wikipedia.org%26utmcampaign%3Dparser%26utmcontent%3Dthumbnail&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSpider-Man&docid=ZK3CqqRY00jQFM&tbnid=1F-juca7i4i5M&vet=12ahUKEwiqzZvg7qmWAxXOcvEDHQqWC3IQnPAOegQILhAA..i&w=250&h=333&hcb=2&itg=1&ved=2ahUKEwiqzZvg7qmWAxXOcvEDHQqWC3IQn"
+    ],
+    "referenceImages": [],
+    "referenceThumbnails": [],
+    "visualDirection": "Let the community maker decide.",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-08-18T09:47:55Z",
+    "updatedAt": "2026-10-12T09:08:16Z",
+    "closedAt": null,
+    "comments": 1,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/130"
+  },
+  {
+    "number": 156,
+    "character": "皮卡丘",
+    "characterDetails": "皮卡丘",
+    "franchise": "宝可梦",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://zh.wikipedia.org/wiki/%E7%9A%AE%E5%8D%A1%E4%B8%98",
+    "referenceUrls": [
+      "https://zh.wikipedia.org/wiki/%E7%9A%AE%E5%8D%A1%E4%B8%98"
+    ],
+    "referenceImages": [],
+    "referenceThumbnails": [],
+    "visualDirection": "完美复刻",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-02T10:05:27Z",
+    "updatedAt": "2026-10-12T09:08:11Z",
+    "closedAt": null,
+    "comments": 1,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/156"
+  },
+  {
+    "number": 171,
+    "character": "达斯维达",
+    "characterDetails": "character",
+    "franchise": "",
+    "category": "other",
+    "version": "v2",
+    "requestType": "",
+    "referenceStatus": "",
+    "references": "",
+    "referenceUrls": [],
+    "referenceImages": [
+      "https://github.com/user-attachments/assets/e3a1c907-55d7-49db-8f52-dc7b65db11d2"
+    ],
+    "referenceThumbnails": [],
+    "visualDirection": "",
+    "nameLanguages": "",
+    "attribution": "",
+    "duplicateCheck": "",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "CyberX0725",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/53927636?v=4",
+      "url": "https://github.com/CyberX0725"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-10T07:35:08Z",
+    "updatedAt": "2026-10-12T09:08:05Z",
+    "closedAt": null,
+    "comments": 2,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/171"
+  },
+  {
+    "number": 91,
+    "character": "Eeyore",
+    "characterDetails": "Eeyore",
+    "franchise": "Eeyore",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://mentalhealthathome.org/wp-content/uploads/eeyore.jpg",
+    "referenceUrls": [
+      "https://mentalhealthathome.org/wp-content/uploads/eeyore.jpg"
+    ],
+    "referenceImages": [
+      "https://mentalhealthathome.org/wp-content/uploads/eeyore.jpg"
+    ],
+    "referenceThumbnails": [],
+    "visualDirection": "Let the community maker decide.",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-08-06T03:05:18Z",
+    "updatedAt": "2026-10-12T09:08:00Z",
+    "closedAt": null,
+    "comments": 1,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/91"
   },
   {
     "number": 157,
@@ -202,46 +322,6 @@
     "comments": 0,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/157"
-  },
-  {
-    "number": 156,
-    "character": "皮卡丘",
-    "characterDetails": "皮卡丘",
-    "franchise": "宝可梦",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://zh.wikipedia.org/wiki/%E7%9A%AE%E5%8D%A1%E4%B8%98",
-    "referenceUrls": [
-      "https://zh.wikipedia.org/wiki/%E7%9A%AE%E5%8D%A1%E4%B8%98"
-    ],
-    "referenceImages": [],
-    "referenceThumbnails": [],
-    "visualDirection": "完美复刻",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "triage",
-    "labels": [
-      "type: request",
-      "status: triage",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-09-02T10:05:27Z",
-    "updatedAt": "2026-09-02T10:05:27Z",
-    "closedAt": null,
-    "comments": 0,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/156"
   },
   {
     "number": 149,
@@ -285,86 +365,6 @@
     "comments": 0,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/149"
-  },
-  {
-    "number": 130,
-    "character": "Spider-man",
-    "characterDetails": "Spider-man",
-    "franchise": "Not provided",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://www.google.com/imgres?q=spider%20man&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2F2%2F21%2FWebofSpider-ManVol1129-1.png%2F250px-WebofSpider-ManVol1129-1.png%3Futmsource%3Den.wikipedia.org%26utmcampaign%3Dparser%26utmcontent%3Dthumbnail&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSpider-Man&docid=ZK3CqqRY00jQFM&tbnid=1F-juca7i4i5M&vet=12ahUKEwiqzZvg7qmWAxXOcvEDHQqWC3IQnPAOegQILhAA..i&w=250&h=333&hcb=2&itg=1&ved=2ahUKEwiqzZvg7qmWAxXOcvEDHQqWC3IQn",
-    "referenceUrls": [
-      "https://www.google.com/imgres?q=spider%20man&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2F2%2F21%2FWebofSpider-ManVol1129-1.png%2F250px-WebofSpider-ManVol1129-1.png%3Futmsource%3Den.wikipedia.org%26utmcampaign%3Dparser%26utmcontent%3Dthumbnail&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSpider-Man&docid=ZK3CqqRY00jQFM&tbnid=1F-juca7i4i5M&vet=12ahUKEwiqzZvg7qmWAxXOcvEDHQqWC3IQnPAOegQILhAA..i&w=250&h=333&hcb=2&itg=1&ved=2ahUKEwiqzZvg7qmWAxXOcvEDHQqWC3IQn"
-    ],
-    "referenceImages": [],
-    "referenceThumbnails": [],
-    "visualDirection": "Let the community maker decide.",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "triage",
-    "labels": [
-      "type: request",
-      "status: triage",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-08-18T09:47:55Z",
-    "updatedAt": "2026-08-18T09:47:55Z",
-    "closedAt": null,
-    "comments": 0,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/130"
-  },
-  {
-    "number": 119,
-    "character": "Spiderman",
-    "characterDetails": "Spiderman",
-    "franchise": "Not provided",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSpiderman%2Fcomments%2F1q5ql90%2Fwhatshappeningwithspidermanbrandnewday%2F&ved=0CBYQjRxqFwoTCPCmt-f-mpYDFQAAAAAdAAAAABA3&opi=89978449",
-    "referenceUrls": [
-      "https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSpiderman%2Fcomments%2F1q5ql90%2Fwhatshappeningwithspidermanbrandnewday%2F&ved=0CBYQjRxqFwoTCPCmt-f-mpYDFQAAAAAdAAAAABA3&opi=89978449"
-    ],
-    "referenceImages": [],
-    "referenceThumbnails": [],
-    "visualDirection": "Let the community maker decide.",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "triage",
-    "labels": [
-      "type: request",
-      "status: triage",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-08-12T12:02:54Z",
-    "updatedAt": "2026-08-12T12:02:54Z",
-    "closedAt": null,
-    "comments": 0,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/119"
   },
   {
     "number": 101,
