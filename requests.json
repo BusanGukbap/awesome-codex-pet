@@ -1,49 +1,5 @@
 [
   {
-    "number": 239,
-    "character": "狸花猫",
-    "characterDetails": "狸花猫",
-    "franchise": "Not provided",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://api.codexpet.top/uploads/reference/references/1c4c8a272b038c0883208120eed9eac0fc21768e923e575933efe62266bcc73e.jpg",
-    "referenceUrls": [
-      "https://api.codexpet.top/uploads/reference/references/1c4c8a272b038c0883208120eed9eac0fc21768e923e575933efe62266bcc73e.jpg"
-    ],
-    "referenceImages": [
-      "https://api.codexpet.top/uploads/reference/references/1c4c8a272b038c0883208120eed9eac0fc21768e923e575933efe62266bcc73e.jpg"
-    ],
-    "referenceThumbnails": [
-      "https://api.codexpet.top/uploads/reference/thumbnails/1c4c8a272b038c0883208120eed9eac0fc21768e923e575933efe62266bcc73e.webp"
-    ],
-    "visualDirection": "请使用我提供的角色图片，制作一个 Windows/Mac 桌面宠物程序。基本要求：去除图片背景，窗口透明，无边框，始终置顶。桌宠可以用鼠标左键拖动位置，点击角色时触发不同的互动动作（如跳跃、打呼噜），鼠标悬停时头部跟随光标移动。右键菜单包含调整大小、置顶开关、退出程序。鼠标滚轮可以调整桌宠大小。",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "in-progress",
-    "labels": [
-      "type: request",
-      "status: in-progress",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-10-04T13:10:01Z",
-    "updatedAt": "2026-10-12T05:27:24Z",
-    "closedAt": null,
-    "comments": 4,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/239"
-  },
-  {
     "number": 267,
     "character": "孤独摇滚山田凉",
     "characterDetails": "孤独摇滚山田凉",
@@ -497,6 +453,50 @@
     "comments": 0,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/119"
+  },
+  {
+    "number": 239,
+    "character": "狸花猫",
+    "characterDetails": "狸花猫",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://api.codexpet.top/uploads/reference/references/1c4c8a272b038c0883208120eed9eac0fc21768e923e575933efe62266bcc73e.jpg",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/1c4c8a272b038c0883208120eed9eac0fc21768e923e575933efe62266bcc73e.jpg"
+    ],
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/1c4c8a272b038c0883208120eed9eac0fc21768e923e575933efe62266bcc73e.jpg"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/1c4c8a272b038c0883208120eed9eac0fc21768e923e575933efe62266bcc73e.webp"
+    ],
+    "visualDirection": "请使用我提供的角色图片，制作一个 Windows/Mac 桌面宠物程序。基本要求：去除图片背景，窗口透明，无边框，始终置顶。桌宠可以用鼠标左键拖动位置，点击角色时触发不同的互动动作（如跳跃、打呼噜），鼠标悬停时头部跟随光标移动。右键菜单包含调整大小、置顶开关、退出程序。鼠标滚轮可以调整桌宠大小。",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "closed",
+    "status": "completed",
+    "labels": [
+      "type: request",
+      "status: completed",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-10-04T13:10:01Z",
+    "updatedAt": "2026-10-12T06:57:44Z",
+    "closedAt": "2026-10-12T06:56:59Z",
+    "comments": 6,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/239"
   },
   {
     "number": 268,
