@@ -1,0 +1,28 @@
+{
+  "slug": "ryo-yamada--zhou-jianwen",
+  "pet_slug": "ryo-yamada",
+  "author_slug": "zhou-jianwen",
+  "name": "Ryo Yamada",
+  "localized_names": {
+    "en": "Ryo Yamada",
+    "zh": "山田凉"
+  },
+  "author": "zhou-jianwen",
+  "primary_category": "Anime Characters",
+  "canonical_key": "bocchi-the-rock/ryo-yamada",
+  "tags": ["anime", "blue-hair", "bocchi-the-rock", "community-request"],
+  "collections": ["bocchi-the-rock"],
+  "source_type": "fan-art",
+  "source_url": "https://github.com/legeling/awesome-codex-pet/issues/267",
+  "description": "Independently AI-drawn fan art of Ryo Yamada from BOCCHI THE ROCK! riding a little yellow snail with a mint-green shell, made for community request #267. The request image was a design reference only; its original artist was not identified, and no permission or authorship of that reference is claimed. The reference image is not included.",
+  "license": "Non-commercial fan art only. Character and franchise rights remain with their respective owners; no authorization from them or from the request reference's unidentified artist is claimed.",
+  "preview_image": "../../assets/previews/ryo-yamada--zhou-jianwen/gifs/idle.gif",
+  "codex_install": {
+    "pet_json": "pet.json",
+    "spritesheet": "spritesheet.webp"
+  },
+  "preview_assets": {
+    "contact_sheet": "../../assets/previews/ryo-yamada--zhou-jianwen/contact-sheet.png",
+    "gifs_dir": "../../assets/previews/ryo-yamada--zhou-jianwen/gifs"
+  }
+}
