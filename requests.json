@@ -1,5 +1,49 @@
 [
   {
+    "number": 239,
+    "character": "狸花猫",
+    "characterDetails": "狸花猫",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://api.codexpet.top/uploads/reference/references/1c4c8a272b038c0883208120eed9eac0fc21768e923e575933efe62266bcc73e.jpg",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/1c4c8a272b038c0883208120eed9eac0fc21768e923e575933efe62266bcc73e.jpg"
+    ],
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/1c4c8a272b038c0883208120eed9eac0fc21768e923e575933efe62266bcc73e.jpg"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/1c4c8a272b038c0883208120eed9eac0fc21768e923e575933efe62266bcc73e.webp"
+    ],
+    "visualDirection": "请使用我提供的角色图片，制作一个 Windows/Mac 桌面宠物程序。基本要求：去除图片背景，窗口透明，无边框，始终置顶。桌宠可以用鼠标左键拖动位置，点击角色时触发不同的互动动作（如跳跃、打呼噜），鼠标悬停时头部跟随光标移动。右键菜单包含调整大小、置顶开关、退出程序。鼠标滚轮可以调整桌宠大小。",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "in-progress",
+    "labels": [
+      "type: request",
+      "status: in-progress",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-10-04T13:10:01Z",
+    "updatedAt": "2026-10-12T05:27:24Z",
+    "closedAt": null,
+    "comments": 4,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/239"
+  },
+  {
     "number": 267,
     "character": "孤独摇滚山田凉",
     "characterDetails": "孤独摇滚山田凉",
@@ -42,6 +86,46 @@
     "comments": 2,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/267"
+  },
+  {
+    "number": 112,
+    "character": "紫灵",
+    "characterDetails": "紫灵",
+    "franchise": "凡人修仙传",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://www.bilibili.com/opus/1107668316180185088?platid=186&sharefrom=dynamic&sharefrom=dynamic&sharemedium=android&sharemedium=android&shareplat=android&shareplat=android&sharesessionid=d3d7097c-81c6-4673-9c3f-691320cc4e3e&sharesessionid=d3d7097c-81c6-4673-9c3f-691320cc4e3e&sharesource=COPY&sharesource=COPY&sharetag=si&sharetag=si&spmid=dt.opus-detail.0.0&spmid=dt.opus-detail.0.0&timestamp=1756948780&timestamp=1756948780&uniquek=xZ9ryb7%5D%28https%3A%2F%2Fwww.bilibili.com%2Fo",
+    "referenceUrls": [
+      "https://www.bilibili.com/opus/1107668316180185088?platid=186&sharefrom=dynamic&sharefrom=dynamic&sharemedium=android&sharemedium=android&shareplat=android&shareplat=android&sharesessionid=d3d7097c-81c6-4673-9c3f-691320cc4e3e&sharesessionid=d3d7097c-81c6-4673-9c3f-691320cc4e3e&sharesource=COPY&sharesource=COPY&sharetag=si&sharetag=si&spmid=dt.opus-detail.0.0&spmid=dt.opus-detail.0.0&timestamp=1756948780&timestamp=1756948780&uniquek=xZ9ryb7%5D%28https%3A%2F%2Fwww.bilibili.com%2Fo"
+    ],
+    "referenceImages": [],
+    "referenceThumbnails": [],
+    "visualDirection": "画风参考凡人修仙传动漫，可为白衣紫灵或者紫衣紫灵",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-08-10T12:28:41Z",
+    "updatedAt": "2026-10-12T05:44:45Z",
+    "closedAt": null,
+    "comments": 1,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/112"
   },
   {
     "number": 101,
@@ -168,50 +252,6 @@
     "comments": 1,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/91"
-  },
-  {
-    "number": 239,
-    "character": "狸花猫",
-    "characterDetails": "狸花猫",
-    "franchise": "Not provided",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://api.codexpet.top/uploads/reference/references/1c4c8a272b038c0883208120eed9eac0fc21768e923e575933efe62266bcc73e.jpg",
-    "referenceUrls": [
-      "https://api.codexpet.top/uploads/reference/references/1c4c8a272b038c0883208120eed9eac0fc21768e923e575933efe62266bcc73e.jpg"
-    ],
-    "referenceImages": [
-      "https://api.codexpet.top/uploads/reference/references/1c4c8a272b038c0883208120eed9eac0fc21768e923e575933efe62266bcc73e.jpg"
-    ],
-    "referenceThumbnails": [
-      "https://api.codexpet.top/uploads/reference/thumbnails/1c4c8a272b038c0883208120eed9eac0fc21768e923e575933efe62266bcc73e.webp"
-    ],
-    "visualDirection": "请使用我提供的角色图片，制作一个 Windows/Mac 桌面宠物程序。基本要求：去除图片背景，窗口透明，无边框，始终置顶。桌宠可以用鼠标左键拖动位置，点击角色时触发不同的互动动作（如跳跃、打呼噜），鼠标悬停时头部跟随光标移动。右键菜单包含调整大小、置顶开关、退出程序。鼠标滚轮可以调整桌宠大小。",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "triage",
-    "labels": [
-      "type: request",
-      "status: triage",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-10-04T13:10:01Z",
-    "updatedAt": "2026-10-12T04:04:01Z",
-    "closedAt": null,
-    "comments": 3,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/239"
   },
   {
     "number": 223,
@@ -457,46 +497,6 @@
     "comments": 0,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/119"
-  },
-  {
-    "number": 112,
-    "character": "紫灵",
-    "characterDetails": "紫灵",
-    "franchise": "凡人修仙传",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://www.bilibili.com/opus/1107668316180185088?platid=186&sharefrom=dynamic&sharefrom=dynamic&sharemedium=android&sharemedium=android&shareplat=android&shareplat=android&sharesessionid=d3d7097c-81c6-4673-9c3f-691320cc4e3e&sharesessionid=d3d7097c-81c6-4673-9c3f-691320cc4e3e&sharesource=COPY&sharesource=COPY&sharetag=si&sharetag=si&spmid=dt.opus-detail.0.0&spmid=dt.opus-detail.0.0&timestamp=1756948780&timestamp=1756948780&uniquek=xZ9ryb7%5D%28https%3A%2F%2Fwww.bilibili.com%2Fo",
-    "referenceUrls": [
-      "https://www.bilibili.com/opus/1107668316180185088?platid=186&sharefrom=dynamic&sharefrom=dynamic&sharemedium=android&sharemedium=android&shareplat=android&shareplat=android&sharesessionid=d3d7097c-81c6-4673-9c3f-691320cc4e3e&sharesessionid=d3d7097c-81c6-4673-9c3f-691320cc4e3e&sharesource=COPY&sharesource=COPY&sharetag=si&sharetag=si&spmid=dt.opus-detail.0.0&spmid=dt.opus-detail.0.0&timestamp=1756948780&timestamp=1756948780&uniquek=xZ9ryb7%5D%28https%3A%2F%2Fwww.bilibili.com%2Fo"
-    ],
-    "referenceImages": [],
-    "referenceThumbnails": [],
-    "visualDirection": "画风参考凡人修仙传动漫，可为白衣紫灵或者紫衣紫灵",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "triage",
-    "labels": [
-      "type: request",
-      "status: triage",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-08-10T12:28:41Z",
-    "updatedAt": "2026-08-10T12:28:41Z",
-    "closedAt": null,
-    "comments": 0,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/112"
   },
   {
     "number": 268,
