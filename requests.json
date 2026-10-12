@@ -349,7 +349,7 @@
     "status": "completed",
     "labels": [
       "type: request",
-      "status: in-progress",
+      "status: completed",
       "version: v2",
       "category: other"
     ],
@@ -360,9 +360,9 @@
     },
     "assignees": [],
     "createdAt": "2026-08-10T12:28:41Z",
-    "updatedAt": "2026-10-12T09:10:21Z",
+    "updatedAt": "2026-10-12T09:11:14Z",
     "closedAt": "2026-10-12T09:10:21Z",
-    "comments": 2,
+    "comments": 4,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/112"
   },
