@@ -1,0 +1,26 @@
+{
+  "slug": "workbuddy-robot--wynn",
+  "pet_slug": "workbuddy-robot",
+  "author_slug": "wynn",
+  "name": "WorkBuddy Robot",
+  "localized_names": {
+    "en": "WorkBuddy Robot",
+    "zh": "WorkBuddy 机器人"
+  },
+  "author": "wynn",
+  "author_handle": "wynn",
+  "primary_category": "Robots",
+  "canonical_key": "brand/workbuddy",
+  "variant_note": "Unofficial independently AI-generated Codex v2 adaptation by wynn of the silver cat-eared robot in WorkBuddy's official promotional artwork. This silver full-body 3D robot edition has its own atlas and is materially distinct from the green-and-white floating app-icon edition. Nine standard animation states and sixteen look directions are newly adapted for Codex.",
+  "tags": ["robot", "cat-ears", "mascot", "ai-generated"],
+  "collections": [],
+  "source_type": "ai-generated",
+  "source_url": "https://apps.apple.com/cn/app/id6761374913",
+  "license": "Non-commercial use only. WorkBuddy branding and the official robot character belong to their respective rights holder. This unofficial adaptation does not imply official permission, endorsement, or redistribution authorization.",
+  "description": "A compact silver cat-eared robot with a black face screen, green capsule eyes and an attached headset microphone. Independently AI-generated fan adaptation from official WorkBuddy promotional references; the standing pose and obscured lower body were newly adapted.",
+  "preview_image": "../../assets/previews/workbuddy-robot--wynn/gifs/idle.gif",
+  "codex_install": {
+    "pet_json": "pet.json",
+    "spritesheet": "spritesheet.webp"
+  }
+}

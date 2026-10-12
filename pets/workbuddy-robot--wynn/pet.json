@@ -1,0 +1,7 @@
+{
+  "id": "workbuddy-robot--wynn",
+  "displayName": "WorkBuddy Robot",
+  "description": "An unofficial silver WorkBuddy cat-eared robot companion with green display eyes.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}
