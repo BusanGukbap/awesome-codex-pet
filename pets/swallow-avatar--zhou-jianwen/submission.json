@@ -1,0 +1,40 @@
+{
+  "slug": "swallow-avatar--zhou-jianwen",
+  "pet_slug": "swallow-avatar",
+  "author_slug": "zhou-jianwen",
+  "name": "Swallow Avatar",
+  "localized_names": {
+    "en": "Swallow Avatar",
+    "zh": "燕子头像"
+  },
+  "author": "zhou-jianwen",
+  "author_handle": "zhou-jianwen",
+  "author_url": "https://github.com/zhou-jianwen",
+  "primary_category": "Animals",
+  "canonical_key": "community-request/101",
+  "variant_note": "Independent plush-bird interpretation of the actual swallow photograph supplied in request #101, preserving the requested indigo, white and coral palette, attached feather crest and forked tail. The request mentions a personal avatar but includes no human portrait; no human likeness is inferred or claimed.",
+  "collections": ["animal-companions"],
+  "tags": [
+    "swallow",
+    "bird",
+    "plush",
+    "community-request",
+    "ai-generated",
+    "v2"
+  ],
+  "source_type": "independently-ai-generated-from-reference",
+  "source_url": "https://github.com/legeling/awesome-codex-pet/issues/101",
+  "license": "CC BY-NC 4.0 for the independently generated pet artwork. Non-commercial use only; commercial use is prohibited. No rights to the requester-supplied photograph are claimed.",
+  "description": "A cheerful rounded plush swallow bird in deep indigo, snowy white and coral, with a tiny attached crest and a connected forked tail, for nine task states and sixteen clockwise look directions.",
+  "asset_note": "The final sprite artwork is independently AI-generated with OpenAI image generation, directed and quality-checked in Codex. The supplied photograph is appearance reference only; its pixels, perch, background and watermark are not reused.",
+  "reference_note": "The no-account requester supplied a swallow photograph rather than a human portrait. The photographer, bird owner and source-image license are unidentified; a visible account watermark is not treated as proof of authorship. This package implements the supplied bird reference and stated visual motifs. Any required human-portrait component remains outside the available reference evidence.",
+  "preview_image": "../../assets/previews/swallow-avatar--zhou-jianwen/gifs/idle.gif",
+  "codex_install": {
+    "pet_json": "pet.json",
+    "spritesheet": "spritesheet.webp"
+  },
+  "preview_assets": {
+    "contact_sheet": "../../assets/previews/swallow-avatar--zhou-jianwen/contact-sheet.png",
+    "gifs_dir": "../../assets/previews/swallow-avatar--zhou-jianwen/gifs"
+  }
+}
