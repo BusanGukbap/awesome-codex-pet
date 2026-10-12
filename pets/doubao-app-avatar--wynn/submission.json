@@ -1,0 +1,37 @@
+{
+  "slug": "doubao-app-avatar--wynn",
+  "pet_slug": "doubao-app-avatar",
+  "author_slug": "wynn",
+  "name": "Doubao App Avatar",
+  "localized_names": { "en": "Doubao App Avatar", "zh": "豆包 App 头像" },
+  "author": "wynn",
+  "author_url": "https://github.com/zhou-jianwen",
+  "primary_category": "Mascots",
+  "canonical_key": "mascot/bytedance/doubao",
+  "variant_note": "An AI-generated app-icon-style circular portrait edition by wynn, distinct from the same author's ivory-cardigan waist-up pet. It retains a short neck, black shirt with white collar and pale-blue circular avatar fill, with facial acting, head turns, nine state animations and sixteen v2 gaze directions. The circular fill stays anchored during gaze motion and the surrounding canvas is transparent.",
+  "tags": [
+    "doubao",
+    "app-avatar",
+    "fan-art",
+    "ai-generated",
+    "3d-toy",
+    "blue-circle",
+    "black-shirt",
+    "v2"
+  ],
+  "collections": [],
+  "source_type": "AI-generated fan art",
+  "source_url": "https://apps.apple.com/cn/app/id6459478672",
+  "source_notes": "AI-generated avatar adaptation and animation based on Doubao's official app icon and the user's app-icon screenshot. The user explicitly approved the generated circular main look before animation. The icon and screenshot are local reference material and are not redistributed in this package. The icon's individual artist was not identified. No official authorization, affiliation or endorsement is asserted.",
+  "license": "Non-commercial use and redistribution only, with credit to wynn, to the extent wynn holds rights in this contribution. Rights in the Doubao character, brand and reference imagery remain with their respective rightsholders; no permission from them is asserted or granted. Unofficial fan art; no affiliation or endorsement.",
+  "description": "A friendly Doubao app-style circular portrait with a short neck, black shirt and white collar. Its pale-blue circle is part of the avatar; outside it is transparent. Facial expressions, nods and head turns provide nine animations and sixteen v2 look directions.",
+  "preview_image": "../../assets/previews/doubao-app-avatar--wynn/gifs/idle.gif",
+  "codex_install": {
+    "pet_json": "pet.json",
+    "spritesheet": "spritesheet.webp"
+  },
+  "preview_assets": {
+    "contact_sheet": "../../assets/previews/doubao-app-avatar--wynn/contact-sheet.png",
+    "gifs_dir": "../../assets/previews/doubao-app-avatar--wynn/gifs"
+  }
+}
