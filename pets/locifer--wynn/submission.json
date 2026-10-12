@@ -1,0 +1,36 @@
+{
+  "slug": "locifer--wynn",
+  "pet_slug": "locifer",
+  "author_slug": "wynn",
+  "name": "Locifer",
+  "author": "wynn",
+  "primary_category": "Fantasy Creatures",
+  "canonical_key": "character/locifer",
+  "variant_note": "wynn's AI-generated 3D toy interpretation with nine task animations and sixteen clockwise look directions for Codex v2.",
+  "tags": [
+    "locifer",
+    "ai-generated",
+    "3d-toy",
+    "golden",
+    "horns",
+    "wings",
+    "cape",
+    "orange",
+    "v2",
+    "look-directions"
+  ],
+  "collections": [],
+  "source_type": "ai-generated-reference-adaptation",
+  "source_notes": "AI-generated animation adaptation of a user-supplied private reference depicting Locifer. The reference guided the golden body, orange muzzle, dark horns and feathered wings, red-lined black cape, orange fruit and solid golden ring. The original reference creator and official franchise have not been established; no ownership or authorization by any character rights holder is asserted. The supplied reference is not included in this package. Animation adaptation credit: wynn.",
+  "license": "Non-commercial use only. Commercial use is prohibited. Character rights remain with their respective owners.",
+  "description": "A cheeky golden companion with dark horns, feathered wings, a red-lined cape, an orange fruit hat and a golden ring, animated in a soft 3D toy style.",
+  "preview_image": "../../assets/previews/locifer--wynn/gifs/idle.gif",
+  "codex_install": {
+    "pet_json": "pet.json",
+    "spritesheet": "spritesheet.webp"
+  },
+  "preview_assets": {
+    "contact_sheet": "../../assets/previews/locifer--wynn/contact-sheet.png",
+    "gifs_dir": "../../assets/previews/locifer--wynn/gifs"
+  }
+}
