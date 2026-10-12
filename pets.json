@@ -2859,6 +2859,21 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "zi-ling-white--zhou-jianwen",
+    "name": "Zi Ling",
+    "localized_names": { "en": "Zi Ling", "zh": "白衣紫灵" },
+    "author": "zhou-jianwen",
+    "author_handle": "zhou-jianwen",
+    "author_url": "https://github.com/zhou-jianwen",
+    "primary_category": "Anime Characters",
+    "canonical_key": "a-record-of-a-mortals-journey-to-immortality/zi-ling",
+    "variant_note": "Independent white-outfit community fan-art interpretation requested in #112. The supplied no-veil head-and-shoulders reference guides the face, long black hair, blue-violet eyes and white/pale-blue/gold upper costume. The unseen lower dress is an original design completion, not a claim of verified canonical costume fidelity.",
+    "collections": [],
+    "license": "Non-commercial use only. Commercial use is prohibited. Independently generated unofficial fan art of Zi Ling from A Record of a Mortal's Journey to Immortality; no ownership of the character or supplied reference artwork is claimed.",
+    "description": "A compact 3D chibi white-robed Zi Ling with long black hair, blue-violet eyes and restrained gold details, for nine Codex task states and sixteen clockwise head-driven look directions.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "march-7th--legeling",
     "name": "三月七",
     "localized_names": { "en": "March 7th", "zh": "三月七" },
