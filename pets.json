@@ -676,6 +676,20 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "doubao-app-avatar--wynn",
+    "name": "Doubao App Avatar",
+    "localized_names": { "en": "Doubao App Avatar", "zh": "豆包 App 头像" },
+    "author": "wynn",
+    "author_url": "https://github.com/zhou-jianwen",
+    "primary_category": "Mascots",
+    "canonical_key": "mascot/bytedance/doubao",
+    "variant_note": "An AI-generated app-icon-style circular portrait edition by wynn, distinct from the same author's ivory-cardigan waist-up pet. It retains a short neck, black shirt with white collar and pale-blue circular avatar fill, with facial acting, head turns, nine state animations and sixteen v2 gaze directions. The circular fill stays anchored during gaze motion and the surrounding canvas is transparent.",
+    "collections": [],
+    "license": "Non-commercial use and redistribution only, with credit to wynn, to the extent wynn holds rights in this contribution. Rights in the Doubao character, brand and reference imagery remain with their respective rightsholders; no permission from them is asserted or granted. Unofficial fan art; no affiliation or endorsement.",
+    "description": "A friendly Doubao app-style circular portrait with a short neck, black shirt and white collar. Its pale-blue circle is part of the avatar; outside it is transparent. Facial expressions, nods and head turns provide nine animations and sixteen v2 look directions.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "doubao-ivory-cardigan--wynn",
     "name": "Doubao Ivory Cardigan",
     "localized_names": { "en": "Doubao Ivory Cardigan", "zh": "米白开衫豆包" },
@@ -1810,6 +1824,18 @@
     "spriteVersionNumber": 1
   },
   {
+    "slug": "mrs-locifer--wynn",
+    "name": "Mrs. Locifer",
+    "author": "wynn",
+    "primary_category": "Fantasy Creatures",
+    "canonical_key": "character/mrs-locifer",
+    "variant_note": "wynn's AI-generated pink-and-white companion design combining Lumei and Locifer reference cues, with nine task animations and sixteen clockwise look directions for Codex v2.",
+    "collections": [],
+    "license": "Non-commercial use only. Commercial use is prohibited. Character rights remain with their respective owners.",
+    "description": "A gentle golden companion in pink ruffles, with dark horns, feathered wings, a red-lined black cape, an orange sprout hat and a golden ring.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "my-little-orange-cat--zhou-jianwen",
     "name": "My Little Orange Cat",
     "author": "zhou-jianwen",
@@ -2448,6 +2474,21 @@
     "collections": [],
     "license": "Independent AI-generated community interpretation; non-commercial use only. Commercial use is prohibited.",
     "description": "An original v2 community interpretation of Sylas Ravenshade: an elegant, gentle vampire gentleman with nine task animations and sixteen clockwise look directions.",
+    "spriteVersionNumber": 2
+  },
+  {
+    "slug": "tabby-cat--zhou-jianwen",
+    "name": "Tabby Cat",
+    "localized_names": { "en": "Tabby Cat", "zh": "狸花猫" },
+    "author": "zhou-jianwen",
+    "author_handle": "zhou-jianwen",
+    "author_url": "https://github.com/zhou-jianwen",
+    "primary_category": "Animals",
+    "canonical_key": "community-request/239",
+    "variant_note": "An independent interpretation of the individual brown tabby in request #239, with green almond eyes, a dark forehead M, cream chin and brown paws. Existing cat packages and reference-photo pixels are not reused.",
+    "collections": ["animal-companions"],
+    "license": "Non-commercial use only. Commercial use is prohibited. No rights to the requester-supplied reference photograph are claimed.",
+    "description": "A softly illustrated green-eyed brown tabby based on the individual cat in request #239, with nine task animation states and sixteen clockwise look directions.",
     "spriteVersionNumber": 2
   },
   {
