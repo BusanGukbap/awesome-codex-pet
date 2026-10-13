@@ -1057,6 +1057,19 @@
     "spriteVersionNumber": 1
   },
   {
+    "slug": "doubao-halloween--wynn",
+    "name": "Halloween Doubao",
+    "author": "wynn",
+    "author_url": "https://github.com/zhou-jianwen",
+    "primary_category": "Mascots",
+    "canonical_key": "mascot/bytedance/doubao",
+    "variant_note": "A Halloween portrait edition by wynn, distinct from the same author's app-avatar and ivory-cardigan editions. It preserves the recognizable chestnut bob and app-avatar face while adding a black witch hat with an orange band, a purple-lined cape, a pumpkin clasp and a lavender circular fill. All nine state animations and sixteen v2 gaze directions are newly AI-generated for this costume.",
+    "collections": [],
+    "license": "Non-commercial use and redistribution only, with credit to wynn, to the extent wynn holds rights in this contribution. Rights in the Doubao character, brand and reference imagery remain with their respective rightsholders; no permission from them is asserted or granted. Unofficial fan art; no affiliation or endorsement.",
+    "description": "Doubao dresses up for Halloween in a black witch hat, purple-lined cape and pumpkin clasp. A lavender circle frames the portrait; outside it is transparent. Nine state animations and sixteen v2 look directions keep the costume consistent.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "hami--tat",
     "name": "Hami",
     "localized_names": { "en": "Hami", "zh": "哈基米" },
