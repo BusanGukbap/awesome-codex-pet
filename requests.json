@@ -42,6 +42,49 @@
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/283"
   },
   {
+    "number": 149,
+    "character": "Aladdin and the magic lamp",
+    "characterDetails": "Someone can make your dream come true",
+    "franchise": "",
+    "category": "other",
+    "version": "v2",
+    "requestType": "",
+    "referenceStatus": "",
+    "references": "https://gd-hbimg.huaban.com/728e58e8eec2659f73655ec01a03a6a8173ec00c6b92-uMEOiq\\fw658 — https://gd-hbimg.huaban.com/728e58e8eec2659f73655ec01a03a6a8173ec00c6b92-uMEOiqfw658\nhttps://preview.qiantucdn.com/agency/dt/xsj/0i/ox/3y.jpg!w1024\\new\\small\\1 — https://preview.qiantucdn.com/agency/dt/xsj/0i/ox/3y.jpg!w1024newsmall1",
+    "referenceUrls": [
+      "https://gd-hbimg.huaban.com/728e58e8eec2659f73655ec01a03a6a8173ec00c6b92-uMEOiq\\fw658",
+      "https://gd-hbimg.huaban.com/728e58e8eec2659f73655ec01a03a6a8173ec00c6b92-uMEOiqfw658",
+      "https://preview.qiantucdn.com/agency/dt/xsj/0i/ox/3y.jpg!w1024\\new\\small\\1",
+      "https://preview.qiantucdn.com/agency/dt/xsj/0i/ox/3y.jpg!w1024newsmall1"
+    ],
+    "referenceImages": [],
+    "referenceThumbnails": [],
+    "visualDirection": "",
+    "nameLanguages": "",
+    "attribution": "",
+    "duplicateCheck": "",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "hizoeyzhang-cmyk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/321993306?v=4",
+      "url": "https://github.com/hizoeyzhang-cmyk"
+    },
+    "assignees": [],
+    "createdAt": "2026-08-28T03:43:37Z",
+    "updatedAt": "2026-10-13T01:26:44Z",
+    "closedAt": null,
+    "comments": 1,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/149"
+  },
+  {
     "number": 119,
     "character": "Spiderman",
     "characterDetails": "Spiderman",
@@ -324,49 +367,6 @@
     "comments": 0,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/157"
-  },
-  {
-    "number": 149,
-    "character": "Aladdin and the magic lamp",
-    "characterDetails": "Someone can make your dream come true",
-    "franchise": "",
-    "category": "other",
-    "version": "v2",
-    "requestType": "",
-    "referenceStatus": "",
-    "references": "https://gd-hbimg.huaban.com/728e58e8eec2659f73655ec01a03a6a8173ec00c6b92-uMEOiq\\fw658 — https://gd-hbimg.huaban.com/728e58e8eec2659f73655ec01a03a6a8173ec00c6b92-uMEOiqfw658\nhttps://preview.qiantucdn.com/agency/dt/xsj/0i/ox/3y.jpg!w1024\\new\\small\\1 — https://preview.qiantucdn.com/agency/dt/xsj/0i/ox/3y.jpg!w1024newsmall1",
-    "referenceUrls": [
-      "https://gd-hbimg.huaban.com/728e58e8eec2659f73655ec01a03a6a8173ec00c6b92-uMEOiq\\fw658",
-      "https://gd-hbimg.huaban.com/728e58e8eec2659f73655ec01a03a6a8173ec00c6b92-uMEOiqfw658",
-      "https://preview.qiantucdn.com/agency/dt/xsj/0i/ox/3y.jpg!w1024\\new\\small\\1",
-      "https://preview.qiantucdn.com/agency/dt/xsj/0i/ox/3y.jpg!w1024newsmall1"
-    ],
-    "referenceImages": [],
-    "referenceThumbnails": [],
-    "visualDirection": "",
-    "nameLanguages": "",
-    "attribution": "",
-    "duplicateCheck": "",
-    "state": "open",
-    "status": "triage",
-    "labels": [
-      "type: request",
-      "status: triage",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "hizoeyzhang-cmyk",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/321993306?v=4",
-      "url": "https://github.com/hizoeyzhang-cmyk"
-    },
-    "assignees": [],
-    "createdAt": "2026-08-28T03:43:37Z",
-    "updatedAt": "2026-08-28T03:43:45Z",
-    "closedAt": null,
-    "comments": 0,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/149"
   },
   {
     "number": 112,
