@@ -1,0 +1,25 @@
+{
+  "slug": "angelina-the-mellow-wish--nagic0",
+  "pet_slug": "angelina-the-mellow-wish",
+  "author_slug": "nagic0",
+  "name": "予愿安洁莉娜",
+  "localized_names": {
+    "en": "Angelina the Mellow Wish",
+    "zh": "予愿安洁莉娜"
+  },
+  "author": "Nagico",
+  "primary_category": "Game Characters",
+  "canonical_key": "arknights/angelina",
+  "variant_note": "Nagico 适配的予愿安洁莉娜 v2 版本：以夏日造型为统一形象，保留官方待机 GIF 的像素并统一裁切缩放，其余动作及 16 向注视通过 AI 辅助制作、逐帧整理与透明边缘修整完成。非官方同人适配，非全套独立原创像素，也非仓库已有图集的换名版本。",
+  "description": "来自《明日方舟》的予愿安洁莉娜，陪你工作。运行时适配与 AI 辅助补充动作由 Nagico 制作；原角色设计、官方待机 GIF 及造型参考来自《明日方舟》「直到大地变成一颗酸橙」与《酸橙色信笺》公开素材。参考原图不随投稿上传；待机行如实保留官方 GIF 的像素来源。",
+  "tags": ["arknights"],
+  "collections": ["arknights"],
+  "source_type": "adapted-existing-asset",
+  "source_url": "https://www.taptap.cn/moment/834126362733185189?group_id=53933",
+  "license": "仅限非商业使用 / Non-commercial use only.",
+  "preview_image": "../../assets/previews/angelina-the-mellow-wish--nagic0/gifs/idle.gif",
+  "codex_install": {
+    "pet_json": "pet.json",
+    "spritesheet": "spritesheet.webp"
+  }
+}
