@@ -2450,6 +2450,20 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
     },
+    "angelina-the-mellow-wish--nagic0": {
+      "name": "予愿安洁莉娜",
+      "localizedNames": {
+        "en": "Angelina the Mellow Wish",
+        "zh": "予愿安洁莉娜"
+      },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "e12d6e2d1ff8c078ce36238ce5073cf1a387e18a5da5cb9454bb5415dec15f69",
+      "petJsonBytes": 239,
+      "spritesheetSha256": "903d78d4a52748d04202d5a43cf7da4e89ca40dfbf62d0c877f93d2d9a4d5ccb",
+      "spritesheetBytes": 2258574,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "inosuke-hashibira--wangfan002": {
       "name": "伊之助 Q版 丰富动作",
       "localizedNames": { "en": "Inosuke Hashibira", "zh": "嘴平伊之助" },
