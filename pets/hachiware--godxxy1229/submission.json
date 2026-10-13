@@ -24,7 +24,7 @@
   "source_url": "https://github.com/godxxy1229/hachiware-codex-pet",
   "source_notes": "Manually authored vector redraw and animation adapted from the Chiikawa framework at https://github.com/godxxy1229/chiikawa-codex-pet, using character references supplied for this project. Reference contours informed the artwork. Final SVG frames are rasterized with Sharp without an image-generation tool. Reference images are not included.",
   "license": "Non-commercial use only. Hachiware and Chiikawa character copyright: Nagano. Character and franchise rights remain with their respective rights holders. No affiliation or endorsement. No license to the underlying character rights is asserted.",
-  "description": "An unofficial Hachiware companion for Codex. https://github.com/godxxy1229/hachiware-codex-pet",
+  "description": "An unofficial Hachiware (Chiikawa) companion for Codex. https://github.com/godxxy1229/hachiware-codex-pet",
   "preview_image": "../../assets/previews/hachiware--godxxy1229/gifs/idle.gif",
   "codex_install": {
     "pet_json": "pet.json",

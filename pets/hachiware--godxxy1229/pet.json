@@ -1,7 +1,7 @@
 {
   "id": "hachiware--godxxy1229",
   "displayName": "Hachiware",
-  "description": "An unofficial Hachiware companion for Codex. https://github.com/godxxy1229/hachiware-codex-pet",
+  "description": "An unofficial Hachiware (Chiikawa) companion for Codex. https://github.com/godxxy1229/hachiware-codex-pet",
   "spritesheetPath": "spritesheet.webp",
   "spriteVersionNumber": 2,
   "kind": "creature"
