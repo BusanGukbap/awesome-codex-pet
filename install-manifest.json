@@ -2293,6 +2293,27 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "workbuddy--wynn": {
+      "name": "WorkBuddy",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "8caf69e1d29cbe8beb93f2a4bc24a816d9e0cd46173318a00f4b5d134fa45de7",
+      "petJsonBytes": 215,
+      "spritesheetSha256": "4b133fd76f6295144a5c5f372382362836072f4f3db070f9abfad96f0d6a9eb5",
+      "spritesheetBytes": 1642894,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
+    "workbuddy-robot--wynn": {
+      "name": "WorkBuddy Robot",
+      "localizedNames": { "en": "WorkBuddy Robot", "zh": "WorkBuddy 机器人" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "9604bf1f886131031a35f97889854f4758fa8a054708fb01fb9c9f1fd6647927",
+      "petJsonBytes": 243,
+      "spritesheetSha256": "c11a4f52b5bd7fa419fd11ce7d9d547e440679ebf91ca8b101631460f5ea7d73",
+      "spritesheetBytes": 2181374,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "xian-xiao-lu--qingyunagi": {
       "name": "Xian Xiao Lu",
       "spriteVersionNumber": 1,

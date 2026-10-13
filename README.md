@@ -12,7 +12,7 @@
 
 <a href="https://codexpet.top"><img src="./assets/cover/awesome-codex-pet-cover.png" alt="Open the Awesome Codex Pet gallery"></a>
 
-![pets: 331](https://img.shields.io/badge/pets-331-2ea44f) ![categories: 11](https://img.shields.io/badge/categories-11-0969da) ![languages: en | zh--CN | ko | ja | es](https://img.shields.io/badge/languages-en%20%7C%20zh--CN%20%7C%20ko%20%7C%20ja%20%7C%20es-8250df) ![code: MIT](https://img.shields.io/badge/code-MIT-111111) ![assets: CC BY--NC 4.0](https://img.shields.io/badge/assets-CC%20BY--NC%204.0-f97316) ![install: one command](https://img.shields.io/badge/install-one%20command-111111) [![Pet previews](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml/badge.svg)](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml)
+![pets: 333](https://img.shields.io/badge/pets-333-2ea44f) ![categories: 11](https://img.shields.io/badge/categories-11-0969da) ![languages: en | zh--CN | ko | ja | es](https://img.shields.io/badge/languages-en%20%7C%20zh--CN%20%7C%20ko%20%7C%20ja%20%7C%20es-8250df) ![code: MIT](https://img.shields.io/badge/code-MIT-111111) ![assets: CC BY--NC 4.0](https://img.shields.io/badge/assets-CC%20BY--NC%204.0-f97316) ![install: one command](https://img.shields.io/badge/install-one%20command-111111) [![Pet previews](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml/badge.svg)](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml)
 
 </div>
 
@@ -103,7 +103,7 @@ The **Update** action is an AI-assisted v1-to-v2 conversion, not a download noti
 </table>
 
 <details>
-<summary>Full pet index (text only) · 331</summary>
+<summary>Full pet index (text only) · 333</summary>
 
 ### Game Characters
 
@@ -329,6 +329,7 @@ The **Update** action is an AI-assisted v1-to-v2 conversion, not a download noti
 <li><a href="./pets/serge-le-lapin--legeling">Serge le Lapin</a> · by <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="./pets/sleepwing--lttxzmj">Sleepwing</a> · by <a href="https://github.com/lttxzmj">@lttxzmj</a> · v2</li>
 <li><a href="./pets/wally--wally025">Wally</a> · by <a href="https://github.com/wally025">@wally025</a> · v1</li>
+<li><a href="./pets/workbuddy--wynn">WorkBuddy</a> · by @wynn · v2</li>
 <li><a href="./pets/zhengyin--noonwake">Zhengyin</a> · by <a href="https://pets.usefulmint.com/?utm_source=awesome_codex_pet&utm_medium=directory&utm_campaign=founding_five&utm_content=zhengyin_listing">@noonwake-ai</a> · v2</li>
 <li><a href="./pets/happynailong--aquaxyy">大笑奶龙</a> · by @aquaxyy · v1</li>
 <li><a href="./pets/bubu-codebrew-bear--xxhh0822">布布</a> · by <a href="https://github.com/xxhh0822">@xxhh0822</a> · v2</li>
@@ -412,6 +413,7 @@ The **Update** action is an AI-assisted v1-to-v2 conversion, not a download noti
 <li><a href="./pets/crt-monitor--wxy">CRT Monitor</a> · by @wxy · v2</li>
 <li><a href="./pets/elber--legeling">ELBER</a> · by <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="./pets/nu-gundam--mzhyui">Nu Gundam</a> · by <a href="https://github.com/mzhyui">@mzhyui</a> · v2</li>
+<li><a href="./pets/workbuddy-robot--wynn">WorkBuddy Robot</a> · by @wynn · v2</li>
 <li><a href="./pets/xiaoda--legeling">小达</a> · by <a href="https://github.com/legeling">@legeling</a> · v2</li>
 </ul>
 

@@ -2778,6 +2778,33 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "workbuddy--wynn",
+    "name": "WorkBuddy",
+    "author": "wynn",
+    "author_handle": "wynn",
+    "primary_category": "Mascots",
+    "canonical_key": "brand/workbuddy",
+    "variant_note": "Unofficial independently AI-generated Codex v2 adaptation by wynn of WorkBuddy's green-and-white cat-eared app icon. This floating icon-face edition is visually distinct from the silver full-body WorkBuddy Robot edition. Nine standard animation states and sixteen look directions are newly adapted for Codex.",
+    "collections": [],
+    "license": "Non-commercial use only. WorkBuddy branding belongs to its respective rights holder. This unofficial adaptation does not imply official permission, endorsement, or redistribution authorization.",
+    "description": "A floating green-and-white cat-eared face with white capsule eyes, faithfully adapted from WorkBuddy's app icon. Independently AI-generated fan adaptation; official imagery was used as reference only.",
+    "spriteVersionNumber": 2
+  },
+  {
+    "slug": "workbuddy-robot--wynn",
+    "name": "WorkBuddy Robot",
+    "localized_names": { "en": "WorkBuddy Robot", "zh": "WorkBuddy 机器人" },
+    "author": "wynn",
+    "author_handle": "wynn",
+    "primary_category": "Robots",
+    "canonical_key": "brand/workbuddy",
+    "variant_note": "Unofficial independently AI-generated Codex v2 adaptation by wynn of the silver cat-eared robot in WorkBuddy's official promotional artwork. This silver full-body 3D robot edition has its own atlas and is materially distinct from the green-and-white floating app-icon edition. Nine standard animation states and sixteen look directions are newly adapted for Codex.",
+    "collections": [],
+    "license": "Non-commercial use only. WorkBuddy branding and the official robot character belong to their respective rights holder. This unofficial adaptation does not imply official permission, endorsement, or redistribution authorization.",
+    "description": "A compact silver cat-eared robot with a black face screen, green capsule eyes and an attached headset microphone. Independently AI-generated fan adaptation from official WorkBuddy promotional references; the standing pose and obscured lower body were newly adapted.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "xian-xiao-lu--qingyunagi",
     "name": "Xian Xiao Lu",
     "author": "qingyunAGI",
