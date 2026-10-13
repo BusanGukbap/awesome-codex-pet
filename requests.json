@@ -1,47 +1,5 @@
 [
   {
-    "number": 283,
-    "character": "雪豹凌小芒",
-    "characterDetails": "雪豹凌小芒",
-    "franchise": "Not provided",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://www.news.cn/20260129/04896785f2fe4ea6bf3998cade82b963/20260129217b542d760e495da2fc2edea0e5d9e96ffdc0caaa064d88bf283f34679b5617.JPG",
-    "referenceUrls": [
-      "https://www.news.cn/20260129/04896785f2fe4ea6bf3998cade82b963/20260129217b542d760e495da2fc2edea0e5d9e96ffdc0caaa064d88bf283f34679b5617.JPG"
-    ],
-    "referenceImages": [
-      "https://www.news.cn/20260129/04896785f2fe4ea6bf3998cade82b963/20260129217b542d760e495da2fc2edea0e5d9e9_6ffdc0caaa064d88bf283f34679b5617.JPG"
-    ],
-    "referenceThumbnails": [],
-    "visualDirection": "chiikawa的画风，鼻子上有道疤请保留，可爱的雪豹，长尾巴！",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "in-progress",
-    "labels": [
-      "type: request",
-      "status: in-progress",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-10-12T09:29:57Z",
-    "updatedAt": "2026-10-12T13:02:11Z",
-    "closedAt": null,
-    "comments": 2,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/283"
-  },
-  {
     "number": 149,
     "character": "Aladdin and the magic lamp",
     "characterDetails": "Someone can make your dream come true",
@@ -367,6 +325,48 @@
     "comments": 0,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/157"
+  },
+  {
+    "number": 283,
+    "character": "雪豹凌小芒",
+    "characterDetails": "雪豹凌小芒",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://www.news.cn/20260129/04896785f2fe4ea6bf3998cade82b963/20260129217b542d760e495da2fc2edea0e5d9e96ffdc0caaa064d88bf283f34679b5617.JPG",
+    "referenceUrls": [
+      "https://www.news.cn/20260129/04896785f2fe4ea6bf3998cade82b963/20260129217b542d760e495da2fc2edea0e5d9e96ffdc0caaa064d88bf283f34679b5617.JPG"
+    ],
+    "referenceImages": [
+      "https://www.news.cn/20260129/04896785f2fe4ea6bf3998cade82b963/20260129217b542d760e495da2fc2edea0e5d9e9_6ffdc0caaa064d88bf283f34679b5617.JPG"
+    ],
+    "referenceThumbnails": [],
+    "visualDirection": "chiikawa的画风，鼻子上有道疤请保留，可爱的雪豹，长尾巴！",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "closed",
+    "status": "completed",
+    "labels": [
+      "type: request",
+      "status: completed",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-10-12T09:29:57Z",
+    "updatedAt": "2026-10-13T06:37:00Z",
+    "closedAt": "2026-10-13T06:36:14Z",
+    "comments": 3,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/283"
   },
   {
     "number": 112,
