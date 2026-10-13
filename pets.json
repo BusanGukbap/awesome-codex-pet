@@ -1517,6 +1517,21 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "ling-xiaomang--zhou-jianwen",
+    "name": "Ling Xiaomang",
+    "localized_names": { "en": "Ling Xiaomang", "zh": "雪豹凌小芒" },
+    "author": "zhou-jianwen",
+    "author_handle": "zhou-jianwen",
+    "author_url": "https://github.com/zhou-jianwen",
+    "primary_category": "Animals",
+    "canonical_key": "animals/snow-leopard/ling-xiaomang",
+    "variant_note": "Independent community interpretation for request #283, using a rounded Chiikawa-inspired doodle style, a very long spotted tail and a small healed central nose mark. The mark's exact orientation is an artistic interpretation, not verified photo fidelity.",
+    "collections": [],
+    "license": "Non-commercial use only. Commercial use is prohibited. Independently generated, unofficial community interpretation; no ownership of the reference photograph or affiliation with its publisher is claimed.",
+    "description": "A tiny rounded snow leopard with a pale rosetted coat, a very long curled spotted tail and a small healed nose mark, animated for nine Codex task states and sixteen clockwise head-led look directions.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "linnea--nyakku-shigure",
     "name": "Linnea",
     "author": "Nyakku Shigure",

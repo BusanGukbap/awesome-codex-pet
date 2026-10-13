@@ -1246,6 +1246,17 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "ling-xiaomang--zhou-jianwen": {
+      "name": "Ling Xiaomang",
+      "localizedNames": { "en": "Ling Xiaomang", "zh": "雪豹凌小芒" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "06f77eb832cd61ba653cb6745dd32d76bafe98dae9a7761e87517536b927b8fa",
+      "petJsonBytes": 253,
+      "spritesheetSha256": "f98aebf0b2ca1fb1a8c81f8ae483a0e32315a252627069137ad0c0c0be42a9fc",
+      "spritesheetBytes": 2092970,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "linnea--nyakku-shigure": {
       "name": "Linnea",
       "spriteVersionNumber": 1,
