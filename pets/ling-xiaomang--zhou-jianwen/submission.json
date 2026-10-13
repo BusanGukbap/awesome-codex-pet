@@ -1,0 +1,41 @@
+{
+  "slug": "ling-xiaomang--zhou-jianwen",
+  "pet_slug": "ling-xiaomang",
+  "author_slug": "zhou-jianwen",
+  "name": "Ling Xiaomang",
+  "localized_names": {
+    "en": "Ling Xiaomang",
+    "zh": "雪豹凌小芒"
+  },
+  "author": "zhou-jianwen",
+  "author_handle": "zhou-jianwen",
+  "author_url": "https://github.com/zhou-jianwen",
+  "primary_category": "Animals",
+  "canonical_key": "animals/snow-leopard/ling-xiaomang",
+  "variant_note": "Independent community interpretation for request #283, using a rounded Chiikawa-inspired doodle style, a very long spotted tail and a small healed central nose mark. The mark's exact orientation is an artistic interpretation, not verified photo fidelity.",
+  "collections": [],
+  "tags": [
+    "animal",
+    "cute",
+    "round",
+    "soft",
+    "ai-generated",
+    "community-request",
+    "v2"
+  ],
+  "source_type": "independently-ai-generated-from-reference",
+  "source_url": "https://github.com/legeling/awesome-codex-pet/issues/283",
+  "license": "Non-commercial use only. Commercial use is prohibited. Independently generated, unofficial community interpretation; no ownership of the reference photograph or affiliation with its publisher is claimed.",
+  "description": "A tiny rounded snow leopard with a pale rosetted coat, a very long curled spotted tail and a small healed nose mark, animated for nine Codex task states and sixteen clockwise head-led look directions.",
+  "asset_note": "All final sprite pixels are independently generated through the built-in OpenAI image generation tool and assembled with deterministic Hatch Pet v2 scripts. Reference-photo pixels, scenery and text are not copied into or redistributed with the asset.",
+  "reference_note": "The request's supplied image could not be inspected in this environment. Appearance is grounded instead in a separately dated 2025-08-16 government-hosted article about the same rescued snow leopard: https://www.forestry.gov.cn/c/www/lcdt/638346.jhtml and its recovery photo https://www.forestry.gov.cn/u/cms/www/202508/160728510yhd.jpg . The article displays Xinhua as its source and the image is credited to Xinhua distribution; the original photographer and redistribution permission are unverified. The requested healed nose mark is preserved as a consistent central line; exact original-photo placement and orientation are unverified.",
+  "preview_image": "../../assets/previews/ling-xiaomang--zhou-jianwen/gifs/idle.gif",
+  "codex_install": {
+    "pet_json": "pet.json",
+    "spritesheet": "spritesheet.webp"
+  },
+  "preview_assets": {
+    "contact_sheet": "../../assets/previews/ling-xiaomang--zhou-jianwen/contact-sheet.png",
+    "gifs_dir": "../../assets/previews/ling-xiaomang--zhou-jianwen/gifs"
+  }
+}
