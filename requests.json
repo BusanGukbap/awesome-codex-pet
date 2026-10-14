@@ -1,5 +1,49 @@
 [
   {
+    "number": 290,
+    "character": "自嘲熊",
+    "characterDetails": "自嘲熊",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://api.codexpet.top/uploads/reference/references/eb425eab413ca06d9152fa61ea5704704a34a6d4715c2b3dcdafcf6152fc07a6.jpg",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/eb425eab413ca06d9152fa61ea5704704a34a6d4715c2b3dcdafcf6152fc07a6.jpg"
+    ],
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/eb425eab413ca06d9152fa61ea5704704a34a6d4715c2b3dcdafcf6152fc07a6.jpg"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/eb425eab413ca06d9152fa61ea5704704a34a6d4715c2b3dcdafcf6152fc07a6.webp"
+    ],
+    "visualDirection": "可爱的自嘲熊，有哥哥姐姐帮忙做一下吗",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-10-14T02:08:19Z",
+    "updatedAt": "2026-10-14T02:08:19Z",
+    "closedAt": null,
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/290"
+  },
+  {
     "number": 149,
     "character": "Aladdin and the magic lamp",
     "characterDetails": "Someone can make your dream come true",
