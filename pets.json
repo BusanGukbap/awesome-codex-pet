@@ -1046,6 +1046,20 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "hachiware--godxxy1229",
+    "name": "Hachiware",
+    "author": "godxxy1229",
+    "author_handle": "godxxy1229",
+    "author_url": "https://github.com/godxxy1229",
+    "primary_category": "Anime Characters",
+    "canonical_key": "chiikawa/hachiware",
+    "variant_note": "A v2 interpretation by godxxy1229 with small blue ears, a smooth short tail, a cheerful spear work action, page-turning book review, an expressive airborne jump, and sixteen look directions.",
+    "collections": [],
+    "license": "Non-commercial use only. Hachiware and Chiikawa character copyright: Nagano. Character and franchise rights remain with their respective rights holders. No affiliation or endorsement. No license to the underlying character rights is asserted.",
+    "description": "An unofficial Hachiware (Chiikawa) companion for Codex. https://github.com/godxxy1229/hachiware-codex-pet",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "hajimi--zeyuwang1999",
     "name": "Hajimi",
     "author": "zeyu.wang",

@@ -864,6 +864,16 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "hachiware--godxxy1229": {
+      "name": "Hachiware",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "41d35bd28437eb4fbbd57f7d65c4ef8f3a051ed7d1ea97459d59f89c95b65f18",
+      "petJsonBytes": 283,
+      "spritesheetSha256": "1ac1a8f9e26f3eead6d603b83ab0e1435a3d87846e093eca4fde54c0a9c08b2f",
+      "spritesheetBytes": 258500,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "hajimi--zeyuwang1999": {
       "name": "Hajimi",
       "spriteVersionNumber": 1,
