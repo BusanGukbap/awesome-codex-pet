@@ -1,5 +1,85 @@
 [
   {
+    "number": 296,
+    "character": "Kamen rider zein",
+    "characterDetails": "Kamen rider zein",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://static.wikia.nocookie.net/villains/images/c/cb/KamenRiderZein.jpg/revision/latest?cb=20240429162814",
+    "referenceUrls": [
+      "https://static.wikia.nocookie.net/villains/images/c/cb/KamenRiderZein.jpg/revision/latest?cb=20240429162814"
+    ],
+    "referenceImages": [],
+    "referenceThumbnails": [],
+    "visualDirection": "Let the community maker decide.",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-10-15T10:17:31Z",
+    "updatedAt": "2026-10-15T10:17:31Z",
+    "closedAt": null,
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/296"
+  },
+  {
+    "number": 295,
+    "character": "아무 디지몬",
+    "characterDetails": "아무 디지몬",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://www.google.com/search?scaesv=9b409f63e8a1ac33&sxsrf=APpeQntm6EjW7LNuJv9334HXGWvBm3gWUw:1792042555474&udm=2&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XoLHFs6TcISYM3FayWAWWA7x3ZDrzG9CGSPZ4zI2S4lLjahG8WC85AFbgHah6Y7Pns5L0Je8-rxCe2EjJJSCdtBhaAFfvb2qvGvpnJS2-Gc0C38RnCjgIQ5M2UW94VY6hluLtQnCQYPss9u18otk78XrnjGd4baukmlQSt4FkH-duDA2h2rP8MPkrpmva-xYBU1xBwUPZbD9RXeDaLaLRlf4k&q=%EB%94%94%EC%A7%80%EB%AA%AC&sa=X&ved=2ahUKEwijwcPfpruXAxV5lK8BHQKMA8sQtKgLegQIGhAB&biw=1920&bih=911&dpr=1",
+    "referenceUrls": [
+      "https://www.google.com/search?scaesv=9b409f63e8a1ac33&sxsrf=APpeQntm6EjW7LNuJv9334HXGWvBm3gWUw:1792042555474&udm=2&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XoLHFs6TcISYM3FayWAWWA7x3ZDrzG9CGSPZ4zI2S4lLjahG8WC85AFbgHah6Y7Pns5L0Je8-rxCe2EjJJSCdtBhaAFfvb2qvGvpnJS2-Gc0C38RnCjgIQ5M2UW94VY6hluLtQnCQYPss9u18otk78XrnjGd4baukmlQSt4FkH-duDA2h2rP8MPkrpmva-xYBU1xBwUPZbD9RXeDaLaLRlf4k&q=%EB%94%94%EC%A7%80%EB%AA%AC&sa=X&ved=2ahUKEwijwcPfpruXAxV5lK8BHQKMA8sQtKgLegQIGhAB&biw=1920&bih=911&dpr=1"
+    ],
+    "referenceImages": [],
+    "referenceThumbnails": [],
+    "visualDirection": "아무 디지몬 만들어주세요.",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-10-15T10:17:29Z",
+    "updatedAt": "2026-10-15T10:17:29Z",
+    "closedAt": null,
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/295"
+  },
+  {
     "number": 292,
     "character": "浮士德",
     "characterDetails": "浮士德",
