@@ -71,3 +71,14 @@ test("does not expose hidden comment URLs or strip literal URL punctuation", () 
   const url = "https://example.com/pet_one_?pattern=a*b#pose_two_";
   assert.deepEqual(item(`<!-- https://example.com/hidden_one -->\n${url}`).referenceUrls, [url]);
 });
+
+test("unwraps paired URL formatting before sentence punctuation or parentheses", () => {
+  const url = "https://example.com/pet_one.png";
+  for (const reference of [`**${url}**.`, `_${url}_,`, `(**${url}**)`, `\`${url}\`.`]) {
+    const result = item(reference);
+    assert.deepEqual(result.referenceUrls, [url], reference);
+    assert.ok(result.references.includes(url));
+    assert.ok(!result.references.includes("**"));
+    assert.ok(!result.references.includes("png_"));
+  }
+});
