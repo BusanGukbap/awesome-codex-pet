@@ -1,6 +1,6 @@
 import { rename, writeFile } from "node:fs/promises";
-import { dirname, join } from "node:path";
-import { fileURLToPath } from "node:url";
+import { dirname, join, resolve } from "node:path";
+import { fileURLToPath, pathToFileURL } from "node:url";
 import { format } from "prettier";
 
 const repoRoot = dirname(dirname(fileURLToPath(import.meta.url)));
@@ -44,13 +44,17 @@ const fieldAliases = new Map([
 function cleanField(value, maxLength = 12_000) {
   const normalized = String(value ?? "")
     .replace(/<!--[\s\S]*?-->/g, "")
+    .replace(/<(https?:\/\/[^<>\s]+)>/g, "$1")
     .replace(/<img\b[^>]*>/gi, "")
     .replace(/<[^>]+>/g, " ")
     .replace(/!\[([^\]]*)\]\([^)]+\)/g, "$1")
     .replace(/\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g, "$1 — $2")
     .replace(/^[-*]\s+\[[ xX]\]\s*/gm, "")
     .replace(/^>\s?/gm, "")
-    .replace(/_{1,3}|`{1,3}|\*{1,3}/g, "")
+    // URL punctuation is data, not Markdown emphasis (for example Kamen_Rider).
+    .replace(/https?:\/\/[^\s<>"'`]+|_{1,3}|`{1,3}|\*{1,3}/g, (part) =>
+      /^https?:\/\//.test(part) ? part : "",
+    )
     .replace(/\r\n?/g, "\n")
     .split("\n")
     .filter(
@@ -95,16 +99,23 @@ function parseIssueForm(body) {
     const fieldName = fieldAliases.get(normalizedHeading(heading.title));
     if (!fieldName) continue;
     const contentEnd = headings[index + 1]?.headingStart ?? body.length;
-    fields[fieldName] = cleanField(
-      body.slice(heading.contentStart, contentEnd),
-    );
+    const value = body.slice(heading.contentStart, contentEnd);
+    // Extract destinations before prose cleanup can interpret URL characters.
+    if (fieldName === "references") {
+      fields.referenceUrls = extractUrls(value.replace(/<!--[\s\S]*?-->/g, ""));
+    }
+    fields[fieldName] = cleanField(value);
   }
 
   return fields;
 }
 
 function extractUrls(value) {
-  const matches = String(value ?? "").match(/https?:\/\/[^\s<>"']+/g) ?? [];
+  const unwrapped = String(value ?? "").replace(
+    /(\*{1,3}|_{1,3}|`{1,3})(https?:\/\/[^\s]+?)\1(?=\s|$)/g,
+    "$2",
+  );
+  const matches = unwrapped.match(/https?:\/\/[^\s<>"'`]+/g) ?? [];
   return [
     ...new Set(
       matches.map((url) =>
@@ -250,7 +261,7 @@ function normalizeVersion(value, labels) {
   return match ? `v${match[1]}` : "";
 }
 
-function toCatalogItem(issue) {
+export function toCatalogItem(issue) {
   const body = String(issue.body ?? "");
   const fields = parseIssueForm(body);
   const labels = labelNames(issue);
@@ -283,7 +294,7 @@ function toCatalogItem(issue) {
     requestType: cleanField(fields.requestType, 300),
     referenceStatus: cleanField(fields.referenceStatus, 500),
     references,
-    referenceUrls: extractUrls(references),
+    referenceUrls: fields.referenceUrls || [],
     referenceImages,
     referenceThumbnails,
     visualDirection: fields.visualDirection || "",
@@ -378,21 +389,27 @@ const statusOrder = new Map([
   ["declined", 5],
 ]);
 
-const catalog = (await fetchIssues())
-  .map(toCatalogItem)
-  .sort((left, right) => {
-    const stateDelta = Number(left.state === "closed") - Number(right.state === "closed");
-    if (stateDelta !== 0) return stateDelta;
-    const statusDelta =
-      (statusOrder.get(left.status) ?? 99) -
-      (statusOrder.get(right.status) ?? 99);
-    if (statusDelta !== 0) return statusDelta;
-    return Date.parse(right.updatedAt) - Date.parse(left.updatedAt);
-  });
+if (
+  process.argv[1] &&
+  import.meta.url === pathToFileURL(resolve(process.argv[1])).href
+) {
+  const catalog = (await fetchIssues())
+    .map(toCatalogItem)
+    .sort((left, right) => {
+      const stateDelta = Number(left.state === "closed") - Number(right.state === "closed");
+      if (stateDelta !== 0) return stateDelta;
+      const statusDelta =
+        (statusOrder.get(left.status) ?? 99) -
+        (statusOrder.get(right.status) ?? 99);
+      if (statusDelta !== 0) return statusDelta;
+      return Date.parse(right.updatedAt) - Date.parse(left.updatedAt);
+    });
 
-const formattedCatalog = await format(JSON.stringify(catalog), {
-  parser: "json",
-});
-await writeFile(temporaryPath, formattedCatalog, "utf8");
-await rename(temporaryPath, outputPath);
-console.log(`Wrote ${catalog.length} request(s) to requests.json`);
+  const formattedCatalog = await format(JSON.stringify(catalog), {
+    parser: "json",
+  });
+  await writeFile(temporaryPath, formattedCatalog, "utf8");
+  await rename(temporaryPath, outputPath);
+  console.log(`Wrote ${catalog.length} request(s) to requests.json`);
+
+}
