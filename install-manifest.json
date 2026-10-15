@@ -3343,6 +3343,16 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
     },
+    "stinky-spike--jjkun28": {
+      "name": "臭臭斯派克",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "7fef0a8085c3f705ee8fdf59f1de32bc9bb88b224b15cd1b757f6773a877947a",
+      "petJsonBytes": 334,
+      "spritesheetSha256": "9f362471f81135431548510b35dfeddc870fe0e9517c6afa2c3bb8513eddc004",
+      "spritesheetBytes": 1899916,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "feibi--vanfff": {
       "name": "菲比",
       "spriteVersionNumber": 1,
