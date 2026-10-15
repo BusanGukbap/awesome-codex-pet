@@ -41,8 +41,15 @@ const fieldAliases = new Map([
   ["已检查相似宠物", "duplicateCheck"],
 ]);
 
+function unwrapUrlFormatting(value) {
+  return String(value ?? "").replace(
+    /(\*{1,3}|_{1,3}|`{1,3})(https?:\/\/[^\s<>]+?)\1(?=$|[\s.,;:!?\)\]])/g,
+    "$2",
+  );
+}
+
 function cleanField(value, maxLength = 12_000) {
-  const normalized = String(value ?? "")
+  const normalized = unwrapUrlFormatting(value)
     .replace(/<!--[\s\S]*?-->/g, "")
     .replace(/<(https?:\/\/[^<>\s]+)>/g, "$1")
     .replace(/<img\b[^>]*>/gi, "")
@@ -111,10 +118,7 @@ function parseIssueForm(body) {
 }
 
 function extractUrls(value) {
-  const unwrapped = String(value ?? "").replace(
-    /(\*{1,3}|_{1,3}|`{1,3})(https?:\/\/[^\s]+?)\1(?=\s|$)/g,
-    "$2",
-  );
+  const unwrapped = unwrapUrlFormatting(value);
   const matches = unwrapped.match(/https?:\/\/[^\s<>"'`]+/g) ?? [];
   return [
     ...new Set(
