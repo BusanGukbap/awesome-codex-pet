@@ -30,7 +30,7 @@
     "test:duplicates": "node --test scripts/test/pet-duplicates.test.mjs",
     "test:install": "node --test scripts/test/install-pet.test.mjs scripts/test/cli.test.mjs",
     "test:package": "node --test scripts/test/package-slim.test.mjs",
-    "test:request-links": "node --test scripts/test/request-linking.test.mjs",
+    "test:request-links": "node --test scripts/test/request-linking.test.mjs scripts/test/request-catalog.test.mjs",
     "test:snapshots": "node --test scripts/test/publish-generated-snapshot.test.mjs",
     "validate": "node scripts/validate-pets.mjs --require-generated-assets",
     "validate:site": "node scripts/validate-pets.mjs --require-site-assets",
