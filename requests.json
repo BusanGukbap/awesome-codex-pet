@@ -44,46 +44,6 @@
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/298"
   },
   {
-    "number": 296,
-    "character": "Kamen rider zein",
-    "characterDetails": "Kamen rider zein",
-    "franchise": "Not provided",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://static.wikia.nocookie.net/villains/images/c/cb/Kamen_Rider_Zein.jpg/revision/latest?cb=20240429162814",
-    "referenceUrls": [
-      "https://static.wikia.nocookie.net/villains/images/c/cb/Kamen_Rider_Zein.jpg/revision/latest?cb=20240429162814"
-    ],
-    "referenceImages": [],
-    "referenceThumbnails": [],
-    "visualDirection": "Let the community maker decide.",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "in-progress",
-    "labels": [
-      "type: request",
-      "status: in-progress",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-10-15T10:17:31Z",
-    "updatedAt": "2026-10-16T02:22:53Z",
-    "closedAt": null,
-    "comments": 1,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/296"
-  },
-  {
     "number": 305,
     "character": "酒狐",
     "characterDetails": "酒狐",
@@ -493,6 +453,46 @@
     "comments": 0,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/157"
+  },
+  {
+    "number": 296,
+    "character": "Kamen rider zein",
+    "characterDetails": "Kamen rider zein",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://static.wikia.nocookie.net/villains/images/c/cb/Kamen_Rider_Zein.jpg/revision/latest?cb=20240429162814",
+    "referenceUrls": [
+      "https://static.wikia.nocookie.net/villains/images/c/cb/Kamen_Rider_Zein.jpg/revision/latest?cb=20240429162814"
+    ],
+    "referenceImages": [],
+    "referenceThumbnails": [],
+    "visualDirection": "Let the community maker decide.",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "closed",
+    "status": "completed",
+    "labels": [
+      "type: request",
+      "status: completed",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-10-15T10:17:31Z",
+    "updatedAt": "2026-10-16T04:36:24Z",
+    "closedAt": "2026-10-16T04:35:21Z",
+    "comments": 3,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/296"
   },
   {
     "number": 295,
