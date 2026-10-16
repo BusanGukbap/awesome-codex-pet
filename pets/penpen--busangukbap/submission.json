@@ -1,0 +1,24 @@
+{
+  "slug": "penpen--busangukbap",
+  "pet_slug": "penpen",
+  "author_slug": "busangukbap",
+  "name": "PEN²",
+  "author": "BusanGukbap",
+  "author_handle": "BusanGukbap",
+  "author_url": "https://github.com/BusanGukbap",
+  "description": "Independently ImageGen-generated, unofficial fan art of Pen Pen from Neon Genesis Evangelion, with Pillow/NumPy alignment and alpha cleanup. The v2 atlas includes nine animation states and 16 gaze directions; no official pixels were directly reused.",
+  "primary_category": "Anime Characters",
+  "canonical_key": "evangelion/pen-pen",
+  "variant_note": "BusanGukbap's independently ImageGen-generated chibi interpretation of Pen Pen, with Pillow/NumPy alignment and alpha cleanup. For repository v2 compatibility, the reserved neutral-look cell at row 0, column 6 is copied pixel-for-pixel from the existing front-standing pose at row 3, column 0; the nine standard animations and 16 gaze directions are unchanged. The artwork does not directly reuse official pixels or claim ownership of the character.",
+  "collections": ["evangelion"],
+  "tags": ["anime", "evangelion", "chibi"],
+  "source_type": "ai-generated",
+  "source_url": "https://github.com/BusanGukbap/gukbaps-codex-pet/tree/4afa83ba0a30705cb45a2e95573ea5ca3d2c8d97/pets/penpen",
+  "license": "Non-commercial use only. Independently AI-generated, unofficial fan art; character and trademark rights remain with their respective owners. This repository may display and redistribute this pet and its generated previews for non-commercial use.",
+  "preview_image": "../../assets/previews/penpen--busangukbap/gifs/idle.gif",
+  "codex_install": {
+    "pet_json": "pet.json",
+    "spritesheet": "spritesheet.webp"
+  },
+  "spritesheet_sha256": "2ab38f9681d51910f725966232aff65196f9ca367c37165688be18675ef4336a"
+}
