@@ -813,6 +813,21 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "faust--legeling",
+    "name": "Faust",
+    "localized_names": { "en": "Faust", "zh": "浮士德" },
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Game Characters",
+    "canonical_key": "limbus-company/faust",
+    "variant_note": "Independently AI-generated chibi v2 edition with nine action sequences and sixteen clockwise look directions, prepared privately on 2026-10-15 for request #292.",
+    "collections": [],
+    "license": "Non-commercial use only. Independently AI-generated unofficial fan art. Faust and Limbus Company belong to Project Moon. Character, game, and third-party artwork rights remain with their respective owners. This statement does not grant rights to the original character or reference artwork.",
+    "description": "An independently AI-generated chibi fan interpretation of Faust from Limbus Company, with nine task animations and sixteen clockwise look directions.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "feixiao--lingxiaotian",
     "name": "Feixiao",
     "localized_names": { "en": "Feixiao", "zh": "飞霄" },
