@@ -56,6 +56,17 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "agumon--legeling": {
+      "name": "Agumon",
+      "localizedNames": { "en": "Agumon", "zh": "亚古兽" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "8994ec2b3b2ad6cf08d8f65cd932e87303ded49d194a974b58501aac83b7b934",
+      "petJsonBytes": 275,
+      "spritesheetSha256": "14f206b128152636ffd4d180dbe90db983af8f05d965987a289628d9ba00bf02",
+      "spritesheetBytes": 1571906,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "ai-pulse--wxy": {
       "name": "AI Pulse",
       "localizedNames": { "en": "AI Pulse", "zh": "AI Pulse" },

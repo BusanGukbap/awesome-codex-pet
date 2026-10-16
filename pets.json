@@ -62,6 +62,21 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "agumon--legeling",
+    "name": "Agumon",
+    "localized_names": { "en": "Agumon", "zh": "亚古兽" },
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Anime Characters",
+    "canonical_key": "digimon/agumon",
+    "variant_note": "Independently AI-generated compact cel-shaded V2 fan interpretation prepared privately for request #295.",
+    "collections": [],
+    "license": "Non-commercial use only. Unofficial AI-generated fan art. Character and brand rights remain with their respective owners; this metadata grants no rights to the original character or reference artwork.",
+    "description": "An independently AI-generated unofficial Agumon fan companion, with nine task animations and sixteen clockwise look directions.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "ai-pulse--wxy",
     "name": "AI Pulse",
     "localized_names": { "en": "AI Pulse", "zh": "AI Pulse" },
