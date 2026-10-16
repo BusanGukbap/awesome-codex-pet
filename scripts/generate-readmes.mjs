@@ -699,7 +699,7 @@ ${badges(pets)}
 - **무료 커뮤니티 갤러리** — [codexpet.top](${websiteUrl})에서 완성된 애니메이션 미리 보기, 컬렉션, 제작자 프로필, 설치 수와 좋아요를 기준으로 한 주간 순위, 공유, 커뮤니티 통계 제공
 - **무료 캐릭터 요청** — spritesheet를 만들지 않아도 캐릭터와 참고 자료를 제출할 수 있으며, 커뮤니티 제작자가 자원할 수 있습니다. 제작을 보장하지는 않습니다.
 - **AI 우선 기여** — Codex로 펫을 만들고, 고치고, 제출할 수 있으며, 숙련된 기여자는 직접 PR을 열 수 있습니다.
-- **열린 라이선스** — 코드에는 MIT, 펫 자산에는 CC BY-NC 4.0 적용
+- **라이선스 안내** — 코드에는 MIT, 펫 자산에는 기본적으로 CC BY-NC 4.0을 적용하며, 개별 펫에 별도 이용 조건이 있으면 해당 조건을 따릅니다.
 
 각 펫은 공유할 수 있는 작은 패키지입니다.
 
@@ -714,14 +714,14 @@ pets/<pet-slug>--<author-slug>/
 
 저장소에서 정의한 시리즈와 컬렉션은 \`collections.json\`에 있습니다. \`kind: franchise\`는 같은 원작의 펫을, \`kind: theme\`는 주제나 스타일이 이어지는 여러 원작의 펫을 나타냅니다. 펫은 \`submission.json.collections\`에 slug를 적어 소속을 선언하며, 카탈로그와 웹사이트는 이 메타데이터로 생성됩니다. 소속 정보는 바로 기록되지만, 컬렉션은 펫이 3개 이상일 때만 웹사이트에 공개됩니다.
 
-\`submission.json.name\`은 필수 기본 이름입니다. 제작자는 \`localized_names\`를 생략해 한 언어만 사용할 수 있고, \`localized_names.en\`과 \`localized_names.zh\`를 함께 제공해 이중 언어 이름을 지원할 수도 있습니다. 웹사이트는 방문자가 선택한 언어를 따르며 이름을 임의로 번역하지 않습니다.
+\`submission.json.name\`은 필수 기본 이름입니다. 제작자는 \`localized_names\`를 생략해 한 언어만 사용할 수 있고, \`localized_names.en\`과 \`localized_names.zh\`를 함께 제공해 이중 언어 이름을 지원할 수도 있습니다. 웹사이트는 방문자가 선택한 언어의 이름을 표시하고, 해당 언어의 이름이 없으면 \`name\`을 사용합니다. 이름을 임의로 번역하지 않습니다.
 
 ## 펫 버전
 
 | 버전 | 아틀라스                | 런타임 메타데이터                   | 용도                                  |
 | ---- | ----------------------- | ----------------------------------- | ------------------------------------- |
 | v1   | \`1536x1872\`, 8열 × 9행  | \`spriteVersionNumber\` 생략 또는 \`1\` | 기존 표준 애니메이션 펫               |
-| v2   | \`1536x2288\`, 8열 × 11행 | \`spriteVersionNumber: 2\`            | 표준 애니메이션과 16개 시계 방향 시선 |
+| v2   | \`1536x2288\`, 8열 × 11행 | \`spriteVersionNumber: 2\`            | 표준 애니메이션과 시계 방향으로 배열된 16개 시선 방향 |
 
 두 버전 모두 설치할 수 있습니다. 기존 9행 펫을 관리할 때는 v1을 사용하고, 시선 방향이 필요한 새 펫이나 업그레이드 펫에는 v2를 사용하세요.
 
@@ -734,7 +734,9 @@ Node.js 20+가 필요합니다. 저장소 복제 없이 모든 플랫폼에서 �
 ${npmInstallCommand(sampleSlug, installRef)}
 \`\`\`
 
-[CLI: list / search / download / contribute](https://github.com/legeling/awesome-codex-pet/blob/main/docs/cli.md)
+설치 후 Codex 설정에서 사용할 펫을 선택하세요. 목록에 보이지 않으면 Codex를 다시 시작하세요.
+
+[CLI 명령어: list / search / download / contribute](../cli.md)
 
 \`\`\`bash
 npx @legeling/codex-pet
@@ -775,13 +777,15 @@ ${categorySections(pets, "ko")}
 
 원하는 캐릭터가 없다면 [무료 커뮤니티 요청 페이지](${websiteUrl}/request)를 여세요. 요청은 무료이며 spritesheet가 없어도 됩니다. 커뮤니티 제작자가 제작을 자원할 수 있지만, 요청이 수록이나 제작을 보장하지는 않습니다.
 
+외형을 지정하는 요청에는 관리자가 볼 수 있는 이미지 첨부, 공개 이미지 URL 또는 공식 캐릭터·출처 페이지를 포함하세요. 비공개 채팅의 이미지, 로컬 경로, 파일명이나 글로만 쓴 설명은 첨부 자료를 대신할 수 없습니다.
+
 기여를 시작하려면 [웹사이트 기여 가이드](${websiteUrl}/guide)를 확인하세요. 모든 기여자가 큰 자산 저장소를 내려받지 않아도 되도록 세 가지 경로를 제공합니다.
 
 1. **펫 요청** — Codex가 중복을 확인하고 참고 자료와 요구 사항을 수집한 뒤, 라벨이 지정된 요청 issue를 엽니다.
 2. **내 펫 만들기 또는 제출하기** — Codex는 참고 자료나 기존 파일에서 시작해 세 파일 패키지를 완성하고 검증한 뒤, 전체 복제 없이 GitHub API로 전용 브랜치와 PR을 만듭니다.
 3. **고급 PR** — 숙련된 기여자는 GitHub Codespaces, 부분 복제 또는 선호하는 Git 작업 흐름을 사용할 수 있습니다.
 
-저장소의 [\`.agents/skills/submit-codex-pet\`](../../.agents/skills/submit-codex-pet) 스킬은 호환되는 AI agent가 올바른 경로를 선택하도록 돕습니다. 인증 정보나 저장소 쓰기 권한이 없으면, 기여물을 잃지 않도록 라벨이 지정된 제출 issue로 대체합니다.
+저장소의 [\`.agents/skills/submit-codex-pet\`](../../.agents/skills/submit-codex-pet) 스킬은 호환되는 AI 에이전트가 올바른 경로를 선택하도록 돕습니다. 먼저 출처 정보를 보완하고 필요한 이미지 수정을 진행하며 GitHub 인증을 재시도합니다. 그래도 검토 자료, 중복 판정 또는 GitHub 인증 문제가 남으면, 제출자 동의를 받은 뒤 검토 가능한 첨부 자료를 포함한 \`[Submission]\` Issue를 생성합니다.
 
 고급 기여자는 최종 패키지 하나만 추가해야 합니다.
 
@@ -794,6 +798,10 @@ pets/
 \`\`\`
 
 여러 제작자가 같은 캐릭터의 변형을 함께 제공할 수 있도록 \`pet-slug--author-slug\` 형식을 사용합니다. v1 제출물은 \`spriteVersionNumber\`를 생략할 수 있으며 \`1536x1872\` WebP를 제공해야 합니다. v2 제출물은 \`spriteVersionNumber: 2\`와 \`1536x2288\` WebP를 제공해야 합니다.
+
+새 제출물의 \`submission.json\`에는 캐릭터를 식별하는 \`canonical_key\`를 지정하세요. 같은 캐릭터의 독립 제작 버전은 동일한 키를 사용하며, 이미 등록된 캐릭터라면 \`variant_note\`에 차이점을 설명하고 별도로 제작한 spritesheet를 제공해야 합니다. 기존 파일과 바이트가 동일한 spritesheet를 재포장해 제출할 수는 없습니다.
+
+제작자와 소재 출처를 사실대로 기록하세요. \`license\`에는 정식 라이선스 또는 명확한 비상업용 이용 조건을 적을 수 있습니다. 정식 라이선스 이름이나 공개 \`source_url\`이 없다는 이유만으로 제출이 막히지는 않지만, 출처 설명과 이용 조건은 명확해야 합니다.
 
 v2 런타임 매니페스트는 다음과 같습니다.
 
@@ -815,7 +823,9 @@ npm run validate:pr
 npm run lint
 \`\`\`
 
-기여자 PR에는 \`submission.json\`, \`pet.json\`, \`spritesheet.webp\`만 포함해야 합니다. prompt, 참고 자료, QA 폴더, contact sheet, 동영상, 디코드 프레임, Hatch Pet 실행 디렉터리는 제출하지 마세요. 유지 관리자나 CI가 병합 뒤 미리 보기, README 목록, \`pets.json\`을 다시 생성하며 미리 보기 바이너리는 장기간 Git 추적 파일로 유지하지 않습니다.
+펫 제출 PR의 변경 파일에는 \`submission.json\`, \`pet.json\`, \`spritesheet.webp\`만 포함해야 합니다. 프롬프트, 참고 자료, QA 폴더, contact sheet, 동영상, 디코드 프레임, Hatch Pet 실행 디렉터리는 커밋하지 마세요. 검토용 contact sheet는 PR 설명에 첨부하세요. CI에서도 변경된 펫의 미리 보기를 아티팩트로 제공합니다. 관리자나 CI가 병합 뒤 미리 보기, README 목록, \`pets.json\`, \`install-manifest.json\`을 다시 생성하며 미리 보기 바이너리는 Git 추적 파일로 유지하지 않습니다.
+
+완성된 제출물은 검토 가능한 상태(Ready for review)의 PR로 올리세요. 초안(Draft)은 미완성 작업에만 사용하고 남은 작업을 명시하세요. 관리자는 캐릭터 일관성, 동작과 방향, 애니메이션 연결, 투명 가장자리를 검토하며 병합 전에 이미지나 메타데이터를 조정할 수 있습니다.
 
 ## 펫 만들기
 
@@ -834,7 +844,7 @@ npm run lint
 - Español: [docs/es](../es)
 - 웹 갤러리 소스: [web/](../../web)
 - 통계 Worker: [worker/](../../worker)
-- 기여 가이드(영어): [CONTRIBUTING.md](../../CONTRIBUTING.md)
+- 상세 기여 가이드(영어): [CONTRIBUTING.md](../en/CONTRIBUTING.md)
 
 ## Star 기록
 
