@@ -100,6 +100,21 @@
     "spriteVersionNumber": 1
   },
   {
+    "slug": "amadeus--legeling",
+    "name": "Amadeus",
+    "localized_names": { "en": "Amadeus", "zh": "阿玛迪斯" },
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Anime Characters",
+    "canonical_key": "steins-gate/amadeus",
+    "variant_note": "Phone-contained Amadeus AI interpretation requested in issue #298, distinct from the standalone Makise Kurisu pixel-art V1 pet makisekurisu--m1gr4ine. This edition uses an independently generated smartphone silhouette, on-screen avatar, nine task animations and sixteen look directions. Related existing submission has no canonical_key; the Amadeus AI concept is grouped separately from the embodied Kurisu character. This is an animated pet asset, not a phone application or conversational AI implementation.",
+    "collections": ["steins-gate"],
+    "license": "Non-commercial use only. Unofficial independently AI-generated fan interpretation. Original character and franchise rights remain with their respective owners; no rights to original character designs or reference artwork are granted.",
+    "description": "A phone-based Amadeus AI companion inspired by Steins;Gate, with a curious red-haired on-screen avatar.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "anya--chenxin-dlut",
     "name": "Anya",
     "localized_names": { "en": "Anya", "zh": "阿尼亚" },
