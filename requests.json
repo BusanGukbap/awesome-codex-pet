@@ -1,5 +1,45 @@
 [
   {
+    "number": 295,
+    "character": "아무 디지몬",
+    "characterDetails": "아무 디지몬",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://www.google.com/search?sca_esv=9b409f63e8a1ac33&sxsrf=APpeQntm6EjW7LNuJv9334HXGWvBm3gWUw:1792042555474&udm=2&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XoLHFs6TcISYM3FayWAWWA7x3ZDrzG9CGSPZ4zI2S4lLjahG8WC85AFbgHa_h6Y7Pns5L0Je8-rxCe2EjJJS_CdtBhaAFfvb2qvGvpnJS2-Gc0C38RnCjgIQ5M2UW94VY6hluLtQnCQYPss9u18otk78XrnjGd4baukmlQSt4FkH-duDA2h2rP8MPkrpmva-xYBU1xBwUPZbD9R_XeDaLaLRl_f4k&q=%EB%94%94%EC%A7%80%EB%AA%AC&sa=X&ved=2ahUKEwijwcPfpruXAxV5lK8BHQKMA8sQtKgLegQIGhAB&biw=1920&bih=911&dpr=1",
+    "referenceUrls": [
+      "https://www.google.com/search?sca_esv=9b409f63e8a1ac33&sxsrf=APpeQntm6EjW7LNuJv9334HXGWvBm3gWUw:1792042555474&udm=2&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XoLHFs6TcISYM3FayWAWWA7x3ZDrzG9CGSPZ4zI2S4lLjahG8WC85AFbgHa_h6Y7Pns5L0Je8-rxCe2EjJJS_CdtBhaAFfvb2qvGvpnJS2-Gc0C38RnCjgIQ5M2UW94VY6hluLtQnCQYPss9u18otk78XrnjGd4baukmlQSt4FkH-duDA2h2rP8MPkrpmva-xYBU1xBwUPZbD9R_XeDaLaLRl_f4k&q=%EB%94%94%EC%A7%80%EB%AA%AC&sa=X&ved=2ahUKEwijwcPfpruXAxV5lK8BHQKMA8sQtKgLegQIGhAB&biw=1920&bih=911&dpr=1"
+    ],
+    "referenceImages": [],
+    "referenceThumbnails": [],
+    "visualDirection": "아무 디지몬 만들어주세요.",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "in-progress",
+    "labels": [
+      "type: request",
+      "status: in-progress",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-10-15T10:17:29Z",
+    "updatedAt": "2026-10-16T04:23:48Z",
+    "closedAt": null,
+    "comments": 1,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/295"
+  },
+  {
     "number": 298,
     "character": "amadeus from Steins Gate",
     "characterDetails": "amadeus from Steins Gate",
@@ -82,88 +122,6 @@
     "comments": 1,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/296"
-  },
-  {
-    "number": 295,
-    "character": "아무 디지몬",
-    "characterDetails": "아무 디지몬",
-    "franchise": "Not provided",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://www.google.com/search?sca_esv=9b409f63e8a1ac33&sxsrf=APpeQntm6EjW7LNuJv9334HXGWvBm3gWUw:1792042555474&udm=2&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XoLHFs6TcISYM3FayWAWWA7x3ZDrzG9CGSPZ4zI2S4lLjahG8WC85AFbgHa_h6Y7Pns5L0Je8-rxCe2EjJJS_CdtBhaAFfvb2qvGvpnJS2-Gc0C38RnCjgIQ5M2UW94VY6hluLtQnCQYPss9u18otk78XrnjGd4baukmlQSt4FkH-duDA2h2rP8MPkrpmva-xYBU1xBwUPZbD9R_XeDaLaLRl_f4k&q=%EB%94%94%EC%A7%80%EB%AA%AC&sa=X&ved=2ahUKEwijwcPfpruXAxV5lK8BHQKMA8sQtKgLegQIGhAB&biw=1920&bih=911&dpr=1",
-    "referenceUrls": [
-      "https://www.google.com/search?sca_esv=9b409f63e8a1ac33&sxsrf=APpeQntm6EjW7LNuJv9334HXGWvBm3gWUw:1792042555474&udm=2&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XoLHFs6TcISYM3FayWAWWA7x3ZDrzG9CGSPZ4zI2S4lLjahG8WC85AFbgHa_h6Y7Pns5L0Je8-rxCe2EjJJS_CdtBhaAFfvb2qvGvpnJS2-Gc0C38RnCjgIQ5M2UW94VY6hluLtQnCQYPss9u18otk78XrnjGd4baukmlQSt4FkH-duDA2h2rP8MPkrpmva-xYBU1xBwUPZbD9R_XeDaLaLRl_f4k&q=%EB%94%94%EC%A7%80%EB%AA%AC&sa=X&ved=2ahUKEwijwcPfpruXAxV5lK8BHQKMA8sQtKgLegQIGhAB&biw=1920&bih=911&dpr=1"
-    ],
-    "referenceImages": [],
-    "referenceThumbnails": [],
-    "visualDirection": "아무 디지몬 만들어주세요.",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "in-progress",
-    "labels": [
-      "type: request",
-      "status: in-progress",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-10-15T10:17:29Z",
-    "updatedAt": "2026-10-16T02:22:25Z",
-    "closedAt": null,
-    "comments": 1,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/295"
-  },
-  {
-    "number": 292,
-    "character": "浮士德",
-    "characterDetails": "浮士德",
-    "franchise": "边狱巴士",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://huiji-public.huijistatic.com/limbuscompany/uploads/4/4b/%E6%B5%AE%E5%A3%AB%E5%BE%B7-face_happyF.png",
-    "referenceUrls": [
-      "https://huiji-public.huijistatic.com/limbuscompany/uploads/4/4b/%E6%B5%AE%E5%A3%AB%E5%BE%B7-face_happyF.png"
-    ],
-    "referenceImages": [
-      "https://huiji-public.huijistatic.com/limbuscompany/uploads/4/4b/%E6%B5%AE%E5%A3%AB%E5%BE%B7-face_happyF.png"
-    ],
-    "referenceThumbnails": [],
-    "visualDirection": "Let the community maker decide.",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "in-progress",
-    "labels": [
-      "type: request",
-      "status: in-progress",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-10-14T17:12:00Z",
-    "updatedAt": "2026-10-16T02:21:48Z",
-    "closedAt": null,
-    "comments": 1,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/292"
   },
   {
     "number": 305,
@@ -577,6 +535,48 @@
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/157"
   },
   {
+    "number": 292,
+    "character": "浮士德",
+    "characterDetails": "浮士德",
+    "franchise": "边狱巴士",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://huiji-public.huijistatic.com/limbuscompany/uploads/4/4b/%E6%B5%AE%E5%A3%AB%E5%BE%B7-face_happyF.png",
+    "referenceUrls": [
+      "https://huiji-public.huijistatic.com/limbuscompany/uploads/4/4b/%E6%B5%AE%E5%A3%AB%E5%BE%B7-face_happyF.png"
+    ],
+    "referenceImages": [
+      "https://huiji-public.huijistatic.com/limbuscompany/uploads/4/4b/%E6%B5%AE%E5%A3%AB%E5%BE%B7-face_happyF.png"
+    ],
+    "referenceThumbnails": [],
+    "visualDirection": "Let the community maker decide.",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "closed",
+    "status": "completed",
+    "labels": [
+      "type: request",
+      "status: completed",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-10-14T17:12:00Z",
+    "updatedAt": "2026-10-16T04:23:46Z",
+    "closedAt": "2026-10-16T04:22:52Z",
+    "comments": 3,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/292"
+  },
+  {
     "number": 290,
     "character": "自嘲熊",
     "characterDetails": "自嘲熊",
@@ -614,9 +614,9 @@
     },
     "assignees": [],
     "createdAt": "2026-10-14T02:08:19Z",
-    "updatedAt": "2026-10-16T04:16:38Z",
+    "updatedAt": "2026-10-16T04:16:57Z",
     "closedAt": "2026-10-16T04:15:50Z",
-    "comments": 3,
+    "comments": 4,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/290"
   },
