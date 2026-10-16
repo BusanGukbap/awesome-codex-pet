@@ -1380,6 +1380,21 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "kamen-rider-zein--legeling",
+    "name": "Kamen Rider Zein",
+    "localized_names": { "en": "Kamen Rider Zein", "zh": "假面骑士 Zein" },
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Others",
+    "canonical_key": "kamen-rider/zein",
+    "variant_note": "Independently AI-generated white-and-gold chibi V2 fan interpretation prepared privately for request #296.",
+    "collections": [],
+    "license": "Non-commercial use only. Unofficial AI-generated fan art. Character and brand rights remain with their respective owners; this metadata grants no rights to the original character or reference artwork.",
+    "description": "An independently AI-generated unofficial chibi Kamen Rider Zein companion in white, gold and teal, with nine task animations and sixteen clockwise look directions.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "kamisato-ayaka--lingxiaotian",
     "name": "Kamisato Ayaka",
     "localized_names": { "en": "Kamisato Ayaka", "zh": "神里绫华" },

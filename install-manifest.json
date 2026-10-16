@@ -1129,6 +1129,17 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "kamen-rider-zein--legeling": {
+      "name": "Kamen Rider Zein",
+      "localizedNames": { "en": "Kamen Rider Zein", "zh": "假面骑士 Zein" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "92178874516cc7a55db51ce00da3f6f8241c870cd454eb6a951567d28dafd137",
+      "petJsonBytes": 331,
+      "spritesheetSha256": "9370ac6973a1c25ce88dbf3c63d00b09fdfedb514e6a0939d47d4986750ee919",
+      "spritesheetBytes": 2075222,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "kamisato-ayaka--lingxiaotian": {
       "name": "Kamisato Ayaka",
       "localizedNames": { "en": "Kamisato Ayaka", "zh": "神里绫华" },

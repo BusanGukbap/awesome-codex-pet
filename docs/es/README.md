@@ -12,7 +12,7 @@
 
 <a href="https://codexpet.top/es"><img src="../../assets/cover/awesome-codex-pet-cover.png" alt="Abrir la galería de Awesome Codex Pet"></a>
 
-![pets: 340](https://img.shields.io/badge/pets-340-2ea44f) ![categories: 11](https://img.shields.io/badge/categories-11-0969da) ![languages: en | zh--CN | ko | ja | es](https://img.shields.io/badge/languages-en%20%7C%20zh--CN%20%7C%20ko%20%7C%20ja%20%7C%20es-8250df) ![code: MIT](https://img.shields.io/badge/code-MIT-111111) ![assets: CC BY--NC 4.0](https://img.shields.io/badge/assets-CC%20BY--NC%204.0-f97316) ![install: one command](https://img.shields.io/badge/install-one%20command-111111) [![Pet previews](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml/badge.svg)](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml)
+![pets: 341](https://img.shields.io/badge/pets-341-2ea44f) ![categories: 11](https://img.shields.io/badge/categories-11-0969da) ![languages: en | zh--CN | ko | ja | es](https://img.shields.io/badge/languages-en%20%7C%20zh--CN%20%7C%20ko%20%7C%20ja%20%7C%20es-8250df) ![code: MIT](https://img.shields.io/badge/code-MIT-111111) ![assets: CC BY--NC 4.0](https://img.shields.io/badge/assets-CC%20BY--NC%204.0-f97316) ![install: one command](https://img.shields.io/badge/install-one%20command-111111) [![Pet previews](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml/badge.svg)](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml)
 
 </div>
 
@@ -69,7 +69,7 @@ npx @legeling/codex-pet
 </table>
 
 <details>
-<summary>Índice completo (solo texto) · 340</summary>
+<summary>Índice completo (solo texto) · 341</summary>
 
 ### Personajes de videojuegos
 
@@ -440,6 +440,7 @@ npx @legeling/codex-pet
 <li><a href="../../pets/glep--legeling">Glep</a> · por <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="../../pets/golden-lamp--legeling">Golden Lamp</a> · por <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="../../pets/gpt-dragon-girl--legeling">GPT Dragon Girl</a> · por <a href="https://github.com/legeling">@legeling</a> · v2</li>
+<li><a href="../../pets/kamen-rider-zein--legeling">Kamen Rider Zein</a> · por <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="../../pets/mini--zhou-jianwen">Mini</a> · por <a href="https://github.com/zhou-jianwen">@zhou-jianwen</a> · v2</li>
 <li><a href="../../pets/my-little-orange-cat--zhou-jianwen">My Little Orange Cat</a> · por <a href="https://github.com/zhou-jianwen">@zhou-jianwen</a> · v2</li>
 <li><a href="../../pets/peach-cat--legeling">Peach Cat</a> · por <a href="https://github.com/legeling">@legeling</a> · v2</li>
