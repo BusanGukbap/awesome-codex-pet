@@ -50,10 +50,10 @@ export function buildCodexUrl(prompt: string) {
 }
 
 export function getLocalizedPetName(pet: PetNameSource, locale: Locale) {
-  if (locale === "zh") {
-    return pet.localizedNames?.zh || pet.displayName || pet.name;
+  if (locale === "en" || locale === "zh") {
+    return pet.localizedNames?.[locale] || pet.name;
   }
-  return pet.localizedNames?.en || pet.name;
+  return pet.name;
 }
 
 export function getPetRequestPrompt(locale: Locale) {
