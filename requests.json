@@ -166,25 +166,21 @@
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/292"
   },
   {
-    "number": 290,
-    "character": "自嘲熊",
-    "characterDetails": "自嘲熊",
-    "franchise": "Not provided",
+    "number": 305,
+    "character": "酒狐",
+    "characterDetails": "酒狐",
+    "franchise": "我的世界",
     "category": "other",
     "version": "v2",
     "requestType": "Create a new community interpretation",
     "referenceStatus": "",
-    "references": "https://api.codexpet.top/uploads/reference/references/eb425eab413ca06d9152fa61ea5704704a34a6d4715c2b3dcdafcf6152fc07a6.jpg",
+    "references": "https://ts1.tc.mm.bing.net/th/id/OIP-C.id-wPmO2WV6T1t81EVKp_wAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "referenceUrls": [
-      "https://api.codexpet.top/uploads/reference/references/eb425eab413ca06d9152fa61ea5704704a34a6d4715c2b3dcdafcf6152fc07a6.jpg"
+      "https://ts1.tc.mm.bing.net/th/id/OIP-C.id-wPmO2WV6T1t81EVKp_wAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
     ],
-    "referenceImages": [
-      "https://api.codexpet.top/uploads/reference/references/eb425eab413ca06d9152fa61ea5704704a34a6d4715c2b3dcdafcf6152fc07a6.jpg"
-    ],
-    "referenceThumbnails": [
-      "https://api.codexpet.top/uploads/reference/thumbnails/eb425eab413ca06d9152fa61ea5704704a34a6d4715c2b3dcdafcf6152fc07a6.webp"
-    ],
-    "visualDirection": "可爱的自嘲熊，有哥哥姐姐帮忙做一下吗",
+    "referenceImages": [],
+    "referenceThumbnails": [],
+    "visualDirection": "他的音频",
     "nameLanguages": "Let the maker decide",
     "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
     "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
@@ -202,12 +198,12 @@
       "url": "https://github.com/apps/github-actions"
     },
     "assignees": [],
-    "createdAt": "2026-10-14T02:08:19Z",
-    "updatedAt": "2026-10-16T04:12:29Z",
+    "createdAt": "2026-10-16T04:14:58Z",
+    "updatedAt": "2026-10-16T04:14:58Z",
     "closedAt": null,
-    "comments": 1,
+    "comments": 0,
     "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/290"
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/305"
   },
   {
     "number": 291,
@@ -579,6 +575,50 @@
     "comments": 0,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/157"
+  },
+  {
+    "number": 290,
+    "character": "自嘲熊",
+    "characterDetails": "自嘲熊",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://api.codexpet.top/uploads/reference/references/eb425eab413ca06d9152fa61ea5704704a34a6d4715c2b3dcdafcf6152fc07a6.jpg",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/eb425eab413ca06d9152fa61ea5704704a34a6d4715c2b3dcdafcf6152fc07a6.jpg"
+    ],
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/eb425eab413ca06d9152fa61ea5704704a34a6d4715c2b3dcdafcf6152fc07a6.jpg"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/eb425eab413ca06d9152fa61ea5704704a34a6d4715c2b3dcdafcf6152fc07a6.webp"
+    ],
+    "visualDirection": "可爱的自嘲熊，有哥哥姐姐帮忙做一下吗",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "closed",
+    "status": "completed",
+    "labels": [
+      "type: request",
+      "status: completed",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-10-14T02:08:19Z",
+    "updatedAt": "2026-10-16T04:16:38Z",
+    "closedAt": "2026-10-16T04:15:50Z",
+    "comments": 3,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/290"
   },
   {
     "number": 283,
