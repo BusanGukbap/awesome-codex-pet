@@ -4069,6 +4069,24 @@
     "spriteVersionNumber": 1
   },
   {
+    "slug": "zichao-xiong--legeling",
+    "name": "自嘲熊（毛绒版）",
+    "localized_names": {
+      "en": "Self-deprecating Bear (Plush)",
+      "zh": "自嘲熊（毛绒版）"
+    },
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Animals",
+    "canonical_key": "nagano/jibun-tsukkomi-kuma",
+    "variant_note": "Independently AI-generated plush V2 interpretation by legeling for request #290, based on a user-approved broad-headed plush reference. Distinct from zichao-xiong--z-kzhang V1: different author, newly generated pixels and action sequences, and sixteen V2 look directions. The existing V1 package is unchanged.",
+    "collections": ["animal-companions"],
+    "license": "Non-commercial use only. Independently AI-generated unofficial fan interpretation. Character and reference artwork rights remain with their respective owners; this statement does not grant rights to the original character or reference artwork.",
+    "description": "An independently AI-generated white plush self-deprecating bear with a broad round head, small body and black dot eyes, featuring nine action sequences and sixteen look directions.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "stinky-spike--jjkun28",
     "name": "臭臭斯派克",
     "author": "JJkun28",

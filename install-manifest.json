@@ -3343,6 +3343,20 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
     },
+    "zichao-xiong--legeling": {
+      "name": "自嘲熊（毛绒版）",
+      "localizedNames": {
+        "en": "Self-deprecating Bear (Plush)",
+        "zh": "自嘲熊（毛绒版）"
+      },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "5b418d7c2b981b820e23dba6e7bbfccfbbb57724e61ea9b2e794a7442c114849",
+      "petJsonBytes": 352,
+      "spritesheetSha256": "1288716e9232063ac71f75db45204125510e857fbd77fb5cbda8138c42a9605e",
+      "spritesheetBytes": 1605040,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "stinky-spike--jjkun28": {
       "name": "臭臭斯派克",
       "spriteVersionNumber": 2,
